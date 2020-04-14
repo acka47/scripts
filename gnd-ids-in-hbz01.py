@@ -5,24 +5,21 @@
 import requests
 import json
 
-filepath = 'gnd1949-test.txt'
+filepath = 'input.txt'
 
 fp = open(filepath)#
 total = 0
 titles = []
 
 def build_url(gndId):
-    return 'http://weywot4.hbz-nrw.de:9200/resources/_search?q=contribution.agent.id%3A%22https\:\/\/d-nb.info\/gnd\/' + gndId.rstrip('\n') + '%22'
-#    return 'https://lobid.org/resources/search?q=contribution.agent.id%3A%22https\:\/\/d-nb.info\/gnd\/' + gndId.rstrip('\n') + '%22'
+    return 'http://weywot4.hbz-nrw.de:9200/resources/_search?q=contribution.agent.id%3A%22https\:\/\/d-nb.info\/gnd\/' + gndId.rstrip('\n') + '%22&size=250'
 
 for gndId in fp.readlines():
     if requests.get(build_url(gndId)).json()['hits']['total'] > 0:
-#    if requests.get(build_url(gndId)).json()['totalItems'] > 0:
         for title in requests.get(build_url(gndId)).json()['hits']['hits']:
-#        for title in requests.get(build_url(gndId)).json()['member']:
-            print(title['hbzId'])
-            titles.append(title['hbzId'])
+            print(title['_id'])
+            titles.append(title['_id'])
 
-with open('moeglicherweise-gemeinfrei.txt', 'w') as f:
+with open('output.txt', 'w') as f:
     for i in titles:
         f.write("%s\n" % i)
