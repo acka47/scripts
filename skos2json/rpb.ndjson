@@ -1,0 +1,1101 @@
+{"prefLabel":"Landeskunde","uri":"http://purl.org/lobid/rpb#n100000"}
+{"prefLabel":"Landeskunde allgemein","uri":"http://purl.org/lobid/rpb#n100100"}
+{"prefLabel":"Bibliografie","uri":"http://purl.org/lobid/rpb#n101000"}
+{"prefLabel":"Landesbeschreibung","uri":"http://purl.org/lobid/rpb#n102000"}
+{"prefLabel":"Kreisbeschreibung","uri":"http://purl.org/lobid/rpb#n102040"}
+{"prefLabel":"Verbandsgemeindebeschreibung","uri":"http://purl.org/lobid/rpb#n102042"}
+{"prefLabel":"Regionenbeschreibung","uri":"http://purl.org/lobid/rpb#n102045"}
+{"prefLabel":"Ortsbeschreibung","uri":"http://purl.org/lobid/rpb#n102050"}
+{"prefLabel":"Reisebericht","uri":"http://purl.org/lobid/rpb#n102060"}
+{"prefLabel":"Wandern / Führer","uri":"http://purl.org/lobid/rpb#n102070"}
+{"prefLabel":"Heimatpflege","uri":"http://purl.org/lobid/rpb#n105000"}
+{"prefLabel":"Heimatverein","uri":"http://purl.org/lobid/rpb#n106000"}
+{"prefLabel":"Biografie","uri":"http://purl.org/lobid/rpb#n109000"}
+{"prefLabel":"Kartografie. Geodäsie","uri":"http://purl.org/lobid/rpb#n120000"}
+{"prefLabel":"Kartografie. Geodäsie allgemein","uri":"http://purl.org/lobid/rpb#n120100"}
+{"prefLabel":"Kartografie","uri":"http://purl.org/lobid/rpb#n122000"}
+{"prefLabel":"Kartenauswertung","uri":"http://purl.org/lobid/rpb#n122030"}
+{"prefLabel":"Computerkartografie","uri":"http://purl.org/lobid/rpb#n122050"}
+{"prefLabel":"Luftbildauswertung","uri":"http://purl.org/lobid/rpb#n122070"}
+{"prefLabel":"Geodäsie","uri":"http://purl.org/lobid/rpb#n124000"}
+{"prefLabel":"Karte","uri":"http://purl.org/lobid/rpb#n126000"}
+{"prefLabel":"Geowissenschaften","uri":"http://purl.org/lobid/rpb#n140000"}
+{"prefLabel":"Geowissenschaften allgemein","uri":"http://purl.org/lobid/rpb#n140100"}
+{"prefLabel":"Geophysik","uri":"http://purl.org/lobid/rpb#n141000"}
+{"prefLabel":"Erdmagnetismus","uri":"http://purl.org/lobid/rpb#n141020"}
+{"prefLabel":"Schwere","uri":"http://purl.org/lobid/rpb#n141030"}
+{"prefLabel":"Erdbeben","uri":"http://purl.org/lobid/rpb#n141040"}
+{"prefLabel":"Geologie","uri":"http://purl.org/lobid/rpb#n141200"}
+{"prefLabel":"Tektonik","uri":"http://purl.org/lobid/rpb#n141220"}
+{"prefLabel":"Ingenieurgeologie","uri":"http://purl.org/lobid/rpb#n141230"}
+{"prefLabel":"Stratigraphie","uri":"http://purl.org/lobid/rpb#n141240"}
+{"prefLabel":"Mineralogie. Gesteinskunde","uri":"http://purl.org/lobid/rpb#n141400"}
+{"prefLabel":"Mineralogie","uri":"http://purl.org/lobid/rpb#n141420"}
+{"prefLabel":"Gesteinskunde","uri":"http://purl.org/lobid/rpb#n141430"}
+{"prefLabel":"Geochemie","uri":"http://purl.org/lobid/rpb#n141440"}
+{"prefLabel":"Lagerstättenkunde","uri":"http://purl.org/lobid/rpb#n141450"}
+{"prefLabel":"Mineralquelle. Thermalquelle","uri":"http://purl.org/lobid/rpb#n141460"}
+{"prefLabel":"Paläontologie","uri":"http://purl.org/lobid/rpb#n141600"}
+{"prefLabel":"Paläobotanik","uri":"http://purl.org/lobid/rpb#n141620"}
+{"prefLabel":"Fossile Sporenpflanzen","uri":"http://purl.org/lobid/rpb#n141622"}
+{"prefLabel":"Fossile Samenpflanzen","uri":"http://purl.org/lobid/rpb#n141624"}
+{"prefLabel":"Paläozoologie","uri":"http://purl.org/lobid/rpb#n141630"}
+{"prefLabel":"Fossile Wirbellose","uri":"http://purl.org/lobid/rpb#n141632"}
+{"prefLabel":"Fossile Wirbeltiere","uri":"http://purl.org/lobid/rpb#n141634"}
+{"prefLabel":"Mikropaläontologie","uri":"http://purl.org/lobid/rpb#n141640"}
+{"prefLabel":"Bodenkunde","uri":"http://purl.org/lobid/rpb#n142000"}
+{"prefLabel":"Bodenentwicklung","uri":"http://purl.org/lobid/rpb#n142020"}
+{"prefLabel":"Bodenphysik","uri":"http://purl.org/lobid/rpb#n142030"}
+{"prefLabel":"Bodenbiologie","uri":"http://purl.org/lobid/rpb#n142040"}
+{"prefLabel":"Bodenmechanik","uri":"http://purl.org/lobid/rpb#n142050"}
+{"prefLabel":"Bodenchemie","uri":"http://purl.org/lobid/rpb#n142060"}
+{"prefLabel":"Geomorphologie","uri":"http://purl.org/lobid/rpb#n142100"}
+{"prefLabel":"Relief / Geografie","uri":"http://purl.org/lobid/rpb#n142110"}
+{"prefLabel":"Abtragung","uri":"http://purl.org/lobid/rpb#n142120"}
+{"prefLabel":"Klimamorphologie","uri":"http://purl.org/lobid/rpb#n142130"}
+{"prefLabel":"Glazialmorphologie. Periglazialgeomorphologie","uri":"http://purl.org/lobid/rpb#n142140"}
+{"prefLabel":"Vulkanismus","uri":"http://purl.org/lobid/rpb#n142150"}
+{"prefLabel":"Karst","uri":"http://purl.org/lobid/rpb#n142170"}
+{"prefLabel":"Höhle","uri":"http://purl.org/lobid/rpb#n142180"}
+{"prefLabel":"Angewandte Geomorphologie","uri":"http://purl.org/lobid/rpb#n142190"}
+{"prefLabel":"Wasser","uri":"http://purl.org/lobid/rpb#n142300"}
+{"prefLabel":"Wasserrecht","uri":"http://purl.org/lobid/rpb#n142310"}
+{"prefLabel":"Fließgewässer","uri":"http://purl.org/lobid/rpb#n142320"}
+{"prefLabel":"Hochwasser","uri":"http://purl.org/lobid/rpb#n142323"}
+{"prefLabel":"Niedrigwasser","uri":"http://purl.org/lobid/rpb#n142325"}
+{"prefLabel":"See","uri":"http://purl.org/lobid/rpb#n142330"}
+{"prefLabel":"Moor","uri":"http://purl.org/lobid/rpb#n142340"}
+{"prefLabel":"Hydrogeologie","uri":"http://purl.org/lobid/rpb#n142350"}
+{"prefLabel":"Bodenwasser","uri":"http://purl.org/lobid/rpb#n142352"}
+{"prefLabel":"Wasserhaushalt","uri":"http://purl.org/lobid/rpb#n142360"}
+{"prefLabel":"Wasserwirtschaft","uri":"http://purl.org/lobid/rpb#n142370"}
+{"prefLabel":"Trinkwasserversorgung","uri":"http://purl.org/lobid/rpb#n142372"}
+{"prefLabel":"Brauchwasser","uri":"http://purl.org/lobid/rpb#n142375"}
+{"prefLabel":"Hydroökologie","uri":"http://purl.org/lobid/rpb#n142380"}
+{"prefLabel":"Wasseranalyse","uri":"http://purl.org/lobid/rpb#n142382"}
+{"prefLabel":"Wasserstatistik","uri":"http://purl.org/lobid/rpb#n142390"}
+{"prefLabel":"Klima","uri":"http://purl.org/lobid/rpb#n142500"}
+{"prefLabel":"Klimaelement","uri":"http://purl.org/lobid/rpb#n142520"}
+{"prefLabel":"Sonnenstrahlung","uri":"http://purl.org/lobid/rpb#n142522"}
+{"prefLabel":"Lufttemperatur","uri":"http://purl.org/lobid/rpb#n142523"}
+{"prefLabel":"Luftfeuchtigkeit","uri":"http://purl.org/lobid/rpb#n142524"}
+{"prefLabel":"Luftdruck","uri":"http://purl.org/lobid/rpb#n142525"}
+{"prefLabel":"Luftbewegung","uri":"http://purl.org/lobid/rpb#n142526"}
+{"prefLabel":"Luftelektrizität","uri":"http://purl.org/lobid/rpb#n142527"}
+{"prefLabel":"Klimatologie","uri":"http://purl.org/lobid/rpb#n142530"}
+{"prefLabel":"Wetterdienst","uri":"http://purl.org/lobid/rpb#n142540"}
+{"prefLabel":"Wetterlage","uri":"http://purl.org/lobid/rpb#n142541"}
+{"prefLabel":"Klimafaktor","uri":"http://purl.org/lobid/rpb#n142550"}
+{"prefLabel":"Klimaschwankung","uri":"http://purl.org/lobid/rpb#n142560"}
+{"prefLabel":"Paläoklimatologie","uri":"http://purl.org/lobid/rpb#n142570"}
+{"prefLabel":"Geoökologie","uri":"http://purl.org/lobid/rpb#n146000"}
+{"prefLabel":"Biowissenschaften","uri":"http://purl.org/lobid/rpb#n160000"}
+{"prefLabel":"Biowissenschaften allgemein","uri":"http://purl.org/lobid/rpb#n160100"}
+{"prefLabel":"Biologie","uri":"http://purl.org/lobid/rpb#n161000"}
+{"prefLabel":"Ökologie","uri":"http://purl.org/lobid/rpb#n161030"}
+{"prefLabel":"Biozönose","uri":"http://purl.org/lobid/rpb#n161040"}
+{"prefLabel":"Mikrobiologie","uri":"http://purl.org/lobid/rpb#n161050"}
+{"prefLabel":"Pflanzen","uri":"http://purl.org/lobid/rpb#n162000"}
+{"prefLabel":"Kryptogamen","uri":"http://purl.org/lobid/rpb#n162030"}
+{"prefLabel":"Samenpflanzen","uri":"http://purl.org/lobid/rpb#n162040"}
+{"prefLabel":"Tiere","uri":"http://purl.org/lobid/rpb#n163000"}
+{"prefLabel":"Wirbellose","uri":"http://purl.org/lobid/rpb#n163020"}
+{"prefLabel":"Insekten","uri":"http://purl.org/lobid/rpb#n163030"}
+{"prefLabel":"Wirbeltiere","uri":"http://purl.org/lobid/rpb#n163040"}
+{"prefLabel":"Fische","uri":"http://purl.org/lobid/rpb#n163050"}
+{"prefLabel":"Lurche","uri":"http://purl.org/lobid/rpb#n163060"}
+{"prefLabel":"Reptilien","uri":"http://purl.org/lobid/rpb#n163070"}
+{"prefLabel":"Vögel","uri":"http://purl.org/lobid/rpb#n163080"}
+{"prefLabel":"Säugetiere","uri":"http://purl.org/lobid/rpb#n163090"}
+{"prefLabel":"Humanbiologie","uri":"http://purl.org/lobid/rpb#n164000"}
+{"prefLabel":"Menschenrasse","uri":"http://purl.org/lobid/rpb#n164020"}
+{"prefLabel":"Skelettfund","uri":"http://purl.org/lobid/rpb#n164030"}
+{"prefLabel":"Paläoanthropologie","uri":"http://purl.org/lobid/rpb#n164040"}
+{"prefLabel":"Historische Hilfswissenschaften","uri":"http://purl.org/lobid/rpb#n200000"}
+{"prefLabel":"Historische Hilfswissenschaften allgemein","uri":"http://purl.org/lobid/rpb#n200100"}
+{"prefLabel":"Chronologie","uri":"http://purl.org/lobid/rpb#n202000"}
+{"prefLabel":"Metrologie","uri":"http://purl.org/lobid/rpb#n202500"}
+{"prefLabel":"Urkundenlehre","uri":"http://purl.org/lobid/rpb#n203000"}
+{"prefLabel":"Paläografie","uri":"http://purl.org/lobid/rpb#n203500"}
+{"prefLabel":"Siegelkunde","uri":"http://purl.org/lobid/rpb#n204000"}
+{"prefLabel":"Numismatik","uri":"http://purl.org/lobid/rpb#n205000"}
+{"prefLabel":"Münze","uri":"http://purl.org/lobid/rpb#n205020"}
+{"prefLabel":"Papiergeld","uri":"http://purl.org/lobid/rpb#n205030"}
+{"prefLabel":"Epigraphik","uri":"http://purl.org/lobid/rpb#n206000"}
+{"prefLabel":"Genealogie","uri":"http://purl.org/lobid/rpb#n207000"}
+{"prefLabel":"Familie","uri":"http://purl.org/lobid/rpb#n207020"}
+{"prefLabel":"Heraldik","uri":"http://purl.org/lobid/rpb#n208000"}
+{"prefLabel":"Flagge","uri":"http://purl.org/lobid/rpb#n208500"}
+{"prefLabel":"Orden / Ehrenzeichen","uri":"http://purl.org/lobid/rpb#n209000"}
+{"prefLabel":"Archiv. Museum","uri":"http://purl.org/lobid/rpb#n210000"}
+{"prefLabel":"Archiv. Museum allgemein","uri":"http://purl.org/lobid/rpb#n210100"}
+{"prefLabel":"Archiv","uri":"http://purl.org/lobid/rpb#n213000"}
+{"prefLabel":"Bundesarchiv Koblenz","uri":"http://purl.org/lobid/rpb#n213010"}
+{"prefLabel":"Staatsarchiv","uri":"http://purl.org/lobid/rpb#n213020"}
+{"prefLabel":"Kreisarchiv. Gemeindearchiv","uri":"http://purl.org/lobid/rpb#n213030"}
+{"prefLabel":"Kreisarchiv","uri":"http://purl.org/lobid/rpb#n213031"}
+{"prefLabel":"Gemeindearchiv","uri":"http://purl.org/lobid/rpb#n213033"}
+{"prefLabel":"Kirchenarchiv","uri":"http://purl.org/lobid/rpb#n213040"}
+{"prefLabel":"Archiv für Literatur, Kunst und Wissenschaft","uri":"http://purl.org/lobid/rpb#n213050"}
+{"prefLabel":"Literaturarchiv","uri":"http://purl.org/lobid/rpb#n213052"}
+{"prefLabel":"Kunstarchiv","uri":"http://purl.org/lobid/rpb#n213053"}
+{"prefLabel":"Wissenschaftsarchiv","uri":"http://purl.org/lobid/rpb#n213054"}
+{"prefLabel":"Parteiarchiv","uri":"http://purl.org/lobid/rpb#n213060"}
+{"prefLabel":"Medienarchiv","uri":"http://purl.org/lobid/rpb#n213070"}
+{"prefLabel":"Rundfunkarchiv","uri":"http://purl.org/lobid/rpb#n213072"}
+{"prefLabel":"Pressearchiv","uri":"http://purl.org/lobid/rpb#n213073"}
+{"prefLabel":"Filmarchiv","uri":"http://purl.org/lobid/rpb#n213074"}
+{"prefLabel":"Wirtschaftsarchiv","uri":"http://purl.org/lobid/rpb#n213080"}
+{"prefLabel":"Firmenarchiv","uri":"http://purl.org/lobid/rpb#n213082"}
+{"prefLabel":"Familienarchiv","uri":"http://purl.org/lobid/rpb#n213090"}
+{"prefLabel":"Sonstige Archive","uri":"http://purl.org/lobid/rpb#n213092"}
+{"prefLabel":"Museum","uri":"http://purl.org/lobid/rpb#n217000"}
+{"prefLabel":"Museumspädagogik","uri":"http://purl.org/lobid/rpb#n217010"}
+{"prefLabel":"Naturkundemuseum","uri":"http://purl.org/lobid/rpb#n217020"}
+{"prefLabel":"Technisches Museum","uri":"http://purl.org/lobid/rpb#n217030"}
+{"prefLabel":"Historisches Museum. Heimatmuseum","uri":"http://purl.org/lobid/rpb#n217040"}
+{"prefLabel":"Volkskundemuseum","uri":"http://purl.org/lobid/rpb#n217050"}
+{"prefLabel":"Sonstige Museen","uri":"http://purl.org/lobid/rpb#n217090"}
+{"prefLabel":"Vor- und Frühgeschichte. Archäologie","uri":"http://purl.org/lobid/rpb#n220000"}
+{"prefLabel":"Vor- und Frühgeschichte. Archäologie allgemein","uri":"http://purl.org/lobid/rpb#n220100"}
+{"prefLabel":"Archäologie","uri":"http://purl.org/lobid/rpb#n220500"}
+{"prefLabel":"Vor- und Frühgeschichte","uri":"http://purl.org/lobid/rpb#n221000"}
+{"prefLabel":"Paläolithikum. Mesolithikum","uri":"http://purl.org/lobid/rpb#n222000"}
+{"prefLabel":"Neolithikum","uri":"http://purl.org/lobid/rpb#n223000"}
+{"prefLabel":"Bandkeramik","uri":"http://purl.org/lobid/rpb#n223020"}
+{"prefLabel":"Rössener Kultur","uri":"http://purl.org/lobid/rpb#n223030"}
+{"prefLabel":"Michelsberger Kultur","uri":"http://purl.org/lobid/rpb#n223040"}
+{"prefLabel":"Megalithkultur","uri":"http://purl.org/lobid/rpb#n223050"}
+{"prefLabel":"Schnurkeramik","uri":"http://purl.org/lobid/rpb#n223060"}
+{"prefLabel":"Glockenbecherkultur","uri":"http://purl.org/lobid/rpb#n223070"}
+{"prefLabel":"Bronzezeit","uri":"http://purl.org/lobid/rpb#n224000"}
+{"prefLabel":"Hügelgräberkultur","uri":"http://purl.org/lobid/rpb#n224050"}
+{"prefLabel":"Urnenfelderkultur","uri":"http://purl.org/lobid/rpb#n224060"}
+{"prefLabel":"Vorrömische Eisenzeit","uri":"http://purl.org/lobid/rpb#n225000"}
+{"prefLabel":"Hallstattkultur","uri":"http://purl.org/lobid/rpb#n225020"}
+{"prefLabel":"Hunsrück-Eifel-Kultur","uri":"http://purl.org/lobid/rpb#n225025"}
+{"prefLabel":"Latène-Zeit","uri":"http://purl.org/lobid/rpb#n225030"}
+{"prefLabel":"Kelten","uri":"http://purl.org/lobid/rpb#n225040"}
+{"prefLabel":"Germanen","uri":"http://purl.org/lobid/rpb#n225050"}
+{"prefLabel":"Römerzeit","uri":"http://purl.org/lobid/rpb#n226000"}
+{"prefLabel":"Kelten","uri":"http://purl.org/lobid/rpb#n226020"}
+{"prefLabel":"Römer","uri":"http://purl.org/lobid/rpb#n226030"}
+{"prefLabel":"Germanen","uri":"http://purl.org/lobid/rpb#n226040"}
+{"prefLabel":"Franken <Volk>","uri":"http://purl.org/lobid/rpb#n226050"}
+{"prefLabel":"Völkerwanderung","uri":"http://purl.org/lobid/rpb#n227000"}
+{"prefLabel":"Römer","uri":"http://purl.org/lobid/rpb#n227020"}
+{"prefLabel":"Germanen","uri":"http://purl.org/lobid/rpb#n227030"}
+{"prefLabel":"Franken <Volk>","uri":"http://purl.org/lobid/rpb#n227040"}
+{"prefLabel":"Mittelalterliche Archäologie. Neuzeitliche Archäologie","uri":"http://purl.org/lobid/rpb#n228000"}
+{"prefLabel":"Bestattung","uri":"http://purl.org/lobid/rpb#n228020"}
+{"prefLabel":"Funde","uri":"http://purl.org/lobid/rpb#n228030"}
+{"prefLabel":"Industriearchäologie","uri":"http://purl.org/lobid/rpb#n228080"}
+{"prefLabel":"Geschichte","uri":"http://purl.org/lobid/rpb#n240000"}
+{"prefLabel":"Quelle","uri":"http://purl.org/lobid/rpb#n240100"}
+{"prefLabel":"Geschichtsschreibung","uri":"http://purl.org/lobid/rpb#n240200"}
+{"prefLabel":"Regionalgeschichte","uri":"http://purl.org/lobid/rpb#n240300"}
+{"prefLabel":"Verbandsgemeindegeschichte","uri":"http://purl.org/lobid/rpb#n240350"}
+{"prefLabel":"Ortsgeschichte","uri":"http://purl.org/lobid/rpb#n240400"}
+{"prefLabel":"Historische Ausstellung","uri":"http://purl.org/lobid/rpb#n240500"}
+{"prefLabel":"Gedenkstätte","uri":"http://purl.org/lobid/rpb#n240600"}
+{"prefLabel":"Rheinland-Pfalz (gesamt) / Geschichte Anfänge-1945","uri":"http://purl.org/lobid/rpb#n241050"}
+{"prefLabel":"Rheinland / Geschichte Anfänge-1945","uri":"http://purl.org/lobid/rpb#n241100"}
+{"prefLabel":"Pfalz / Geschichte Anfänge-1945","uri":"http://purl.org/lobid/rpb#n241200"}
+{"prefLabel":"Rheinhessen / Geschichte Anfänge-1945","uri":"http://purl.org/lobid/rpb#n241400"}
+{"prefLabel":"Kurpfalz","uri":"http://purl.org/lobid/rpb#n242100"}
+{"prefLabel":"Hochstift Trier","uri":"http://purl.org/lobid/rpb#n242200"}
+{"prefLabel":"Hochstift Mainz","uri":"http://purl.org/lobid/rpb#n242300"}
+{"prefLabel":"Hochstift Speyer","uri":"http://purl.org/lobid/rpb#n242500"}
+{"prefLabel":"Hochstift Worms","uri":"http://purl.org/lobid/rpb#n242600"}
+{"prefLabel":"Reichsterritorium. Reichsbeziehung","uri":"http://purl.org/lobid/rpb#n242700"}
+{"prefLabel":"Reichstag","uri":"http://purl.org/lobid/rpb#n242720"}
+{"prefLabel":"Reichsrecht","uri":"http://purl.org/lobid/rpb#n242730"}
+{"prefLabel":"Reichsgut","uri":"http://purl.org/lobid/rpb#n242740"}
+{"prefLabel":"Königshof","uri":"http://purl.org/lobid/rpb#n242743"}
+{"prefLabel":"Königspfalz","uri":"http://purl.org/lobid/rpb#n242744"}
+{"prefLabel":"Reichsabtei","uri":"http://purl.org/lobid/rpb#n242746"}
+{"prefLabel":"Reichsstadt","uri":"http://purl.org/lobid/rpb#n242747"}
+{"prefLabel":"Reichsritterschaft","uri":"http://purl.org/lobid/rpb#n242760"}
+{"prefLabel":"Kleinere Territorien und Teile auswärtiger Territorien","uri":"http://purl.org/lobid/rpb#n242800"}
+{"prefLabel":"Luxemburg","uri":"http://purl.org/lobid/rpb#n242810"}
+{"prefLabel":"Hochstift Köln","uri":"http://purl.org/lobid/rpb#n242812"}
+{"prefLabel":"Grafschaft Homburg, Saar","uri":"http://purl.org/lobid/rpb#n242814"}
+{"prefLabel":"Grafschaft Saarbrücken","uri":"http://purl.org/lobid/rpb#n242816"}
+{"prefLabel":"Staat Leiningen","uri":"http://purl.org/lobid/rpb#n242818"}
+{"prefLabel":"Grafschaft Virneburg","uri":"http://purl.org/lobid/rpb#n242830"}
+{"prefLabel":"Grafschaft Manderscheid","uri":"http://purl.org/lobid/rpb#n242832"}
+{"prefLabel":"Herzogtum Arenberg","uri":"http://purl.org/lobid/rpb#n242834"}
+{"prefLabel":"Fürstentum Löwenstein-Wertheim","uri":"http://purl.org/lobid/rpb#n242836"}
+{"prefLabel":"Grafschaft Wied","uri":"http://purl.org/lobid/rpb#n242850"}
+{"prefLabel":"Fürstentum Isenburg. Grafschaft Isenburg","uri":"http://purl.org/lobid/rpb#n242852"}
+{"prefLabel":"Grafschaft Sayn","uri":"http://purl.org/lobid/rpb#n242854"}
+{"prefLabel":"Grafschaft Katzenelnbogen","uri":"http://purl.org/lobid/rpb#n242856"}
+{"prefLabel":"Grafschaft Veldenz","uri":"http://purl.org/lobid/rpb#n242870"}
+{"prefLabel":"Grafschaft Sponheim","uri":"http://purl.org/lobid/rpb#n242872"}
+{"prefLabel":"Wild- und Rheingrafen","uri":"http://purl.org/lobid/rpb#n242874"}
+{"prefLabel":"Pfalz-Simmern","uri":"http://purl.org/lobid/rpb#n242876"}
+{"prefLabel":"Hanau-Lichtenberg","uri":"http://purl.org/lobid/rpb#n242878"}
+{"prefLabel":"Pfalz-Zweibrücken","uri":"http://purl.org/lobid/rpb#n243100"}
+{"prefLabel":"Staat Nassau","uri":"http://purl.org/lobid/rpb#n243400"}
+{"prefLabel":"Französische Besetzung / 1792-1815","uri":"http://purl.org/lobid/rpb#n245100"}
+{"prefLabel":"Mainzer Republik","uri":"http://purl.org/lobid/rpb#n245120"}
+{"prefLabel":"Wälderdepartement","uri":"http://purl.org/lobid/rpb#n245130"}
+{"prefLabel":"Rhein-Mosel-Département","uri":"http://purl.org/lobid/rpb#n245140"}
+{"prefLabel":"Département Donnersberg","uri":"http://purl.org/lobid/rpb#n245160"}
+{"prefLabel":"Saardepartement","uri":"http://purl.org/lobid/rpb#n245180"}
+{"prefLabel":"Rheinbund / 1806-1813","uri":"http://purl.org/lobid/rpb#n245300"}
+{"prefLabel":"Rheinprovinz","uri":"http://purl.org/lobid/rpb#n246100"}
+{"prefLabel":"Hessen-Darmstadt","uri":"http://purl.org/lobid/rpb#n246200"}
+{"prefLabel":"Hessen-Nassau","uri":"http://purl.org/lobid/rpb#n246300"}
+{"prefLabel":"Bayerische Pfalz","uri":"http://purl.org/lobid/rpb#n246500"}
+{"prefLabel":"Kleinere Territorien des 19. Jahrhunderts","uri":"http://purl.org/lobid/rpb#n246700"}
+{"prefLabel":"Fürstentum Birkenfeld","uri":"http://purl.org/lobid/rpb#n246720"}
+{"prefLabel":"Fürstentum Lichtenberg","uri":"http://purl.org/lobid/rpb#n246740"}
+{"prefLabel":"Oberamt Meisenheim","uri":"http://purl.org/lobid/rpb#n246760"}
+{"prefLabel":"Rheinland-Pfalz / Geschichte 1945-1947","uri":"http://purl.org/lobid/rpb#n248000"}
+{"prefLabel":"Rheinland / Geschichte 1945-","uri":"http://purl.org/lobid/rpb#n248100"}
+{"prefLabel":"Rheinhessen / Geschichte 1945-","uri":"http://purl.org/lobid/rpb#n248300"}
+{"prefLabel":"Pfalz / Geschichte 1945-","uri":"http://purl.org/lobid/rpb#n248500"}
+{"prefLabel":"Rheinland-Pfalz / Geschichte 1947-","uri":"http://purl.org/lobid/rpb#n249100"}
+{"prefLabel":"Militär- und Wehrwesen","uri":"http://purl.org/lobid/rpb#n260000"}
+{"prefLabel":"Militär- und Wehrwesen allgemein","uri":"http://purl.org/lobid/rpb#n260100"}
+{"prefLabel":"Militär","uri":"http://purl.org/lobid/rpb#n262000"}
+{"prefLabel":"Militärbau","uri":"http://purl.org/lobid/rpb#n262010"}
+{"prefLabel":"Burg","uri":"http://purl.org/lobid/rpb#n262011"}
+{"prefLabel":"Festung","uri":"http://purl.org/lobid/rpb#n262012"}
+{"prefLabel":"Schanze","uri":"http://purl.org/lobid/rpb#n262014"}
+{"prefLabel":"Standort","uri":"http://purl.org/lobid/rpb#n262016"}
+{"prefLabel":"Militär / Ausrüstung","uri":"http://purl.org/lobid/rpb#n262020"}
+{"prefLabel":"Kriegswaffe","uri":"http://purl.org/lobid/rpb#n262022"}
+{"prefLabel":"Rüstung","uri":"http://purl.org/lobid/rpb#n262023"}
+{"prefLabel":"Uniform","uri":"http://purl.org/lobid/rpb#n262024"}
+{"prefLabel":"Feldzeichen","uri":"http://purl.org/lobid/rpb#n262025"}
+{"prefLabel":"Orden / Ehrenzeichen","uri":"http://purl.org/lobid/rpb#n262026"}
+{"prefLabel":"Wehrwesen","uri":"http://purl.org/lobid/rpb#n263000"}
+{"prefLabel":"Bürgerwehr","uri":"http://purl.org/lobid/rpb#n263010"}
+{"prefLabel":"Militär / Geschichte Anfänge-1918","uri":"http://purl.org/lobid/rpb#n263020"}
+{"prefLabel":"Deutschland / Reichswehr","uri":"http://purl.org/lobid/rpb#n263030"}
+{"prefLabel":"Deutschland / Wehrmacht","uri":"http://purl.org/lobid/rpb#n263040"}
+{"prefLabel":"Ausländisches Militär","uri":"http://purl.org/lobid/rpb#n263050"}
+{"prefLabel":"Deutschland / Bundeswehr","uri":"http://purl.org/lobid/rpb#n263060"}
+{"prefLabel":"Soldat","uri":"http://purl.org/lobid/rpb#n263090"}
+{"prefLabel":"Staat. Politik","uri":"http://purl.org/lobid/rpb#n400000"}
+{"prefLabel":"Staat. Politik allgemein","uri":"http://purl.org/lobid/rpb#n400100"}
+{"prefLabel":"Staatsgrundlage","uri":"http://purl.org/lobid/rpb#n402000"}
+{"prefLabel":"Staatsrecht","uri":"http://purl.org/lobid/rpb#n402020"}
+{"prefLabel":"Staatsangehörigkeit","uri":"http://purl.org/lobid/rpb#n402030"}
+{"prefLabel":"Staatsgebiet","uri":"http://purl.org/lobid/rpb#n402040"}
+{"prefLabel":"Hoheitsrecht","uri":"http://purl.org/lobid/rpb#n402050"}
+{"prefLabel":"Staatsform","uri":"http://purl.org/lobid/rpb#n402060"}
+{"prefLabel":"Föderalismus","uri":"http://purl.org/lobid/rpb#n402070"}
+{"prefLabel":"Verfassung","uri":"http://purl.org/lobid/rpb#n402300"}
+{"prefLabel":"Verfassung / Geschichte","uri":"http://purl.org/lobid/rpb#n402330"}
+{"prefLabel":"Grundrecht","uri":"http://purl.org/lobid/rpb#n402340"}
+{"prefLabel":"Datenschutz","uri":"http://purl.org/lobid/rpb#n402344"}
+{"prefLabel":"Gewaltenteilung","uri":"http://purl.org/lobid/rpb#n402350"}
+{"prefLabel":"Politisches System","uri":"http://purl.org/lobid/rpb#n404000"}
+{"prefLabel":"Regierungsbildung","uri":"http://purl.org/lobid/rpb#n404030"}
+{"prefLabel":"Regierungschef","uri":"http://purl.org/lobid/rpb#n404040"}
+{"prefLabel":"Regierung","uri":"http://purl.org/lobid/rpb#n404050"}
+{"prefLabel":"Ministerium","uri":"http://purl.org/lobid/rpb#n404060"}
+{"prefLabel":"Regierungspolitik","uri":"http://purl.org/lobid/rpb#n404070"}
+{"prefLabel":"Landespartnerschaft","uri":"http://purl.org/lobid/rpb#n404090"}
+{"prefLabel":"Parlament","uri":"http://purl.org/lobid/rpb#n404300"}
+{"prefLabel":"Parlament / Geschichte","uri":"http://purl.org/lobid/rpb#n404320"}
+{"prefLabel":"Regierungspartei","uri":"http://purl.org/lobid/rpb#n404340"}
+{"prefLabel":"Opposition","uri":"http://purl.org/lobid/rpb#n404350"}
+{"prefLabel":"Parlamentsorganisation","uri":"http://purl.org/lobid/rpb#n404360"}
+{"prefLabel":"Parlamentsausschuss","uri":"http://purl.org/lobid/rpb#n404361"}
+{"prefLabel":"Ombudsmann","uri":"http://purl.org/lobid/rpb#n404365"}
+{"prefLabel":"Abgeordneter","uri":"http://purl.org/lobid/rpb#n404380"}
+{"prefLabel":"Politische Willensbildung","uri":"http://purl.org/lobid/rpb#n406000"}
+{"prefLabel":"Öffentlichkeitsarbeit","uri":"http://purl.org/lobid/rpb#n406020"}
+{"prefLabel":"Politische Bildung","uri":"http://purl.org/lobid/rpb#n406030"}
+{"prefLabel":"Öffentliche Meinung","uri":"http://purl.org/lobid/rpb#n406040"}
+{"prefLabel":"Politische Bewegung","uri":"http://purl.org/lobid/rpb#n406060"}
+{"prefLabel":"Parteistiftung","uri":"http://purl.org/lobid/rpb#n406080"}
+{"prefLabel":"Partei. Politikerin. Politiker","uri":"http://purl.org/lobid/rpb#n406100"}
+{"prefLabel":"Partei","uri":"http://purl.org/lobid/rpb#n406120"}
+{"prefLabel":"Politikerin. Politiker","uri":"http://purl.org/lobid/rpb#n406130"}
+{"prefLabel":"Politische Gruppe","uri":"http://purl.org/lobid/rpb#n406200"}
+{"prefLabel":"Politischer Verein","uri":"http://purl.org/lobid/rpb#n406230"}
+{"prefLabel":"Bürgerinitiative","uri":"http://purl.org/lobid/rpb#n406250"}
+{"prefLabel":"Projektgruppe","uri":"http://purl.org/lobid/rpb#n406270"}
+{"prefLabel":"Wahl","uri":"http://purl.org/lobid/rpb#n406300"}
+{"prefLabel":"Wahlrecht","uri":"http://purl.org/lobid/rpb#n406310"}
+{"prefLabel":"Wahlkreiseinteilung","uri":"http://purl.org/lobid/rpb#n406320"}
+{"prefLabel":"Volksabstimmung","uri":"http://purl.org/lobid/rpb#n406330"}
+{"prefLabel":"Europawahl","uri":"http://purl.org/lobid/rpb#n406340"}
+{"prefLabel":"Bundestagswahl","uri":"http://purl.org/lobid/rpb#n406350"}
+{"prefLabel":"Landtagswahl","uri":"http://purl.org/lobid/rpb#n406360"}
+{"prefLabel":"Kreistag / Wahl","uri":"http://purl.org/lobid/rpb#n406370"}
+{"prefLabel":"Bezirkstag / Wahl","uri":"http://purl.org/lobid/rpb#n406380"}
+{"prefLabel":"Kommunalwahl","uri":"http://purl.org/lobid/rpb#n406390"}
+{"prefLabel":"Verwaltung","uri":"http://purl.org/lobid/rpb#n420000"}
+{"prefLabel":"Verwaltung allgemein","uri":"http://purl.org/lobid/rpb#n420100"}
+{"prefLabel":"Verwaltungsrecht","uri":"http://purl.org/lobid/rpb#n421000"}
+{"prefLabel":"Verwaltungskontrolle","uri":"http://purl.org/lobid/rpb#n421400"}
+{"prefLabel":"Verwaltung / Geschichte","uri":"http://purl.org/lobid/rpb#n422000"}
+{"prefLabel":"Allgemeine Verwaltung","uri":"http://purl.org/lobid/rpb#n423000"}
+{"prefLabel":"Verwaltung / Struktur","uri":"http://purl.org/lobid/rpb#n423020"}
+{"prefLabel":"Behörde / Organisation","uri":"http://purl.org/lobid/rpb#n423030"}
+{"prefLabel":"Behörde / Datenverarbeitung","uri":"http://purl.org/lobid/rpb#n423050"}
+{"prefLabel":"Verwaltungsreform","uri":"http://purl.org/lobid/rpb#n423400"}
+{"prefLabel":"Länderneugliederung","uri":"http://purl.org/lobid/rpb#n423420"}
+{"prefLabel":"Gebietsreform","uri":"http://purl.org/lobid/rpb#n423430"}
+{"prefLabel":"Funktionalreform","uri":"http://purl.org/lobid/rpb#n423440"}
+{"prefLabel":"Öffentlicher Dienst","uri":"http://purl.org/lobid/rpb#n423600"}
+{"prefLabel":"Dienstrecht","uri":"http://purl.org/lobid/rpb#n423610"}
+{"prefLabel":"Personalwesen","uri":"http://purl.org/lobid/rpb#n423620"}
+{"prefLabel":"Beamter","uri":"http://purl.org/lobid/rpb#n423640"}
+{"prefLabel":"Öffentlicher Haushalt","uri":"http://purl.org/lobid/rpb#n424000"}
+{"prefLabel":"Finanzverwaltung","uri":"http://purl.org/lobid/rpb#n424020"}
+{"prefLabel":"Finanzamt","uri":"http://purl.org/lobid/rpb#n424021"}
+{"prefLabel":"Finanzausgleich","uri":"http://purl.org/lobid/rpb#n424022"}
+{"prefLabel":"Finanzreform","uri":"http://purl.org/lobid/rpb#n424024"}
+{"prefLabel":"Öffentliche Beschaffung","uri":"http://purl.org/lobid/rpb#n424026"}
+{"prefLabel":"Rechnungshof","uri":"http://purl.org/lobid/rpb#n424028"}
+{"prefLabel":"Abgabe","uri":"http://purl.org/lobid/rpb#n424030"}
+{"prefLabel":"Steuer","uri":"http://purl.org/lobid/rpb#n424040"}
+{"prefLabel":"Steuerberatung","uri":"http://purl.org/lobid/rpb#n424042"}
+{"prefLabel":"Gebühr","uri":"http://purl.org/lobid/rpb#n424050"}
+{"prefLabel":"Zoll","uri":"http://purl.org/lobid/rpb#n424060"}
+{"prefLabel":"Bezirksverwaltung","uri":"http://purl.org/lobid/rpb#n425000"}
+{"prefLabel":"Regierungspräsident","uri":"http://purl.org/lobid/rpb#n425020"}
+{"prefLabel":"Regierungsbezirk Koblenz","uri":"http://purl.org/lobid/rpb#n425030"}
+{"prefLabel":"Regierungsbezirk Trier","uri":"http://purl.org/lobid/rpb#n425040"}
+{"prefLabel":"Regierungsbezirk Rheinhessen-Pfalz","uri":"http://purl.org/lobid/rpb#n425050"}
+{"prefLabel":"Bezirksverband Pfalz","uri":"http://purl.org/lobid/rpb#n425052"}
+{"prefLabel":"Kreisverwaltung","uri":"http://purl.org/lobid/rpb#n425200"}
+{"prefLabel":"Kreisrecht","uri":"http://purl.org/lobid/rpb#n425220"}
+{"prefLabel":"Kreisparlament","uri":"http://purl.org/lobid/rpb#n425230"}
+{"prefLabel":"Kreispartnerschaft","uri":"http://purl.org/lobid/rpb#n425290"}
+{"prefLabel":"Gemeindeverwaltung","uri":"http://purl.org/lobid/rpb#n426000"}
+{"prefLabel":"Ortsrecht","uri":"http://purl.org/lobid/rpb#n426020"}
+{"prefLabel":"Gemeinderat","uri":"http://purl.org/lobid/rpb#n426030"}
+{"prefLabel":"Kommunale Selbstverwaltung","uri":"http://purl.org/lobid/rpb#n426040"}
+{"prefLabel":"Auftragsverwaltung","uri":"http://purl.org/lobid/rpb#n426050"}
+{"prefLabel":"Kommunaler Spitzenverband","uri":"http://purl.org/lobid/rpb#n426060"}
+{"prefLabel":"Verbandsgemeinde","uri":"http://purl.org/lobid/rpb#n426070"}
+{"prefLabel":"Kommunale Partnerschaft","uri":"http://purl.org/lobid/rpb#n426090"}
+{"prefLabel":"Obere Landesbehörde","uri":"http://purl.org/lobid/rpb#n427000"}
+{"prefLabel":"Rheinland-Pfalz / Struktur- und Genehmigungsdirektion Nord","uri":"http://purl.org/lobid/rpb#n427010"}
+{"prefLabel":"Rheinland-Pfalz / Struktur- und Genehmigungsdirektion Süd","uri":"http://purl.org/lobid/rpb#n427020"}
+{"prefLabel":"Rheinland-Pfalz / Aufsichts- und Dienstleistungsdirektion","uri":"http://purl.org/lobid/rpb#n427030"}
+{"prefLabel":"Rheinland-Pfalz / Landesuntersuchungsamt","uri":"http://purl.org/lobid/rpb#n427040"}
+{"prefLabel":"Sicherheit und Ordnung","uri":"http://purl.org/lobid/rpb#n428000"}
+{"prefLabel":"Ordnungsrecht","uri":"http://purl.org/lobid/rpb#n428020"}
+{"prefLabel":"Polizei","uri":"http://purl.org/lobid/rpb#n428030"}
+{"prefLabel":"Polizeiorganisation","uri":"http://purl.org/lobid/rpb#n428032"}
+{"prefLabel":"Polizei / Ausrüstung","uri":"http://purl.org/lobid/rpb#n428033"}
+{"prefLabel":"Zivilschutz","uri":"http://purl.org/lobid/rpb#n428040"}
+{"prefLabel":"Staatsschutz","uri":"http://purl.org/lobid/rpb#n428050"}
+{"prefLabel":"Grenzschutz","uri":"http://purl.org/lobid/rpb#n428052"}
+{"prefLabel":"Verfassungsschutz","uri":"http://purl.org/lobid/rpb#n428054"}
+{"prefLabel":"Personenstandswesen","uri":"http://purl.org/lobid/rpb#n428060"}
+{"prefLabel":"Sicherheitsbehörde","uri":"http://purl.org/lobid/rpb#n428070"}
+{"prefLabel":"Technischer Überwachungsverein","uri":"http://purl.org/lobid/rpb#n428072"}
+{"prefLabel":"Feuerwehr","uri":"http://purl.org/lobid/rpb#n428074"}
+{"prefLabel":"Rettungswesen","uri":"http://purl.org/lobid/rpb#n428076"}
+{"prefLabel":"Katastrophe. Unfall","uri":"http://purl.org/lobid/rpb#n428078"}
+{"prefLabel":"Friedhofsordnung","uri":"http://purl.org/lobid/rpb#n428080"}
+{"prefLabel":"Recht","uri":"http://purl.org/lobid/rpb#n440000"}
+{"prefLabel":"Recht allgemein","uri":"http://purl.org/lobid/rpb#n440100"}
+{"prefLabel":"Recht / Geschichte","uri":"http://purl.org/lobid/rpb#n442000"}
+{"prefLabel":"Recht / Geschichte / Quelle","uri":"http://purl.org/lobid/rpb#n442050"}
+{"prefLabel":"Privatrecht","uri":"http://purl.org/lobid/rpb#n443000"}
+{"prefLabel":"Strafrecht","uri":"http://purl.org/lobid/rpb#n444000"}
+{"prefLabel":"Strafvollzug","uri":"http://purl.org/lobid/rpb#n444030"}
+{"prefLabel":"Kriminalität","uri":"http://purl.org/lobid/rpb#n444050"}
+{"prefLabel":"Kriminalfall","uri":"http://purl.org/lobid/rpb#n444070"}
+{"prefLabel":"Gerichtsbarkeit","uri":"http://purl.org/lobid/rpb#n446000"}
+{"prefLabel":"Verfassungsgerichtsbarkeit","uri":"http://purl.org/lobid/rpb#n446010"}
+{"prefLabel":"Ordentliche Gerichtsbarkeit","uri":"http://purl.org/lobid/rpb#n446030"}
+{"prefLabel":"Strafgerichtsbarkeit","uri":"http://purl.org/lobid/rpb#n446032"}
+{"prefLabel":"Zivilgerichtsbarkeit","uri":"http://purl.org/lobid/rpb#n446034"}
+{"prefLabel":"Verwaltungsgerichtsbarkeit","uri":"http://purl.org/lobid/rpb#n446050"}
+{"prefLabel":"Finanzgerichtsbarkeit","uri":"http://purl.org/lobid/rpb#n446060"}
+{"prefLabel":"Arbeitsgerichtsbarkeit","uri":"http://purl.org/lobid/rpb#n446070"}
+{"prefLabel":"Sozialgerichtsbarkeit","uri":"http://purl.org/lobid/rpb#n446080"}
+{"prefLabel":"Rechtsprechung","uri":"http://purl.org/lobid/rpb#n447000"}
+{"prefLabel":"Rechtspflege","uri":"http://purl.org/lobid/rpb#n448000"}
+{"prefLabel":"Bevölkerung","uri":"http://purl.org/lobid/rpb#n500000"}
+{"prefLabel":"Bevölkerung allgemein","uri":"http://purl.org/lobid/rpb#n500100"}
+{"prefLabel":"Bevölkerung / Geschichte","uri":"http://purl.org/lobid/rpb#n502000"}
+{"prefLabel":"Bevölkerungsstruktur","uri":"http://purl.org/lobid/rpb#n503000"}
+{"prefLabel":"Altersstruktur","uri":"http://purl.org/lobid/rpb#n503020"}
+{"prefLabel":"Geschlechtsverhältnis","uri":"http://purl.org/lobid/rpb#n503030"}
+{"prefLabel":"Volkszählung","uri":"http://purl.org/lobid/rpb#n503040"}
+{"prefLabel":"Einwohnerverzeichnis","uri":"http://purl.org/lobid/rpb#n503050"}
+{"prefLabel":"Haushaltsgrösse","uri":"http://purl.org/lobid/rpb#n503060"}
+{"prefLabel":"Wohnstandard","uri":"http://purl.org/lobid/rpb#n503070"}
+{"prefLabel":"Einkommensstatistik","uri":"http://purl.org/lobid/rpb#n503080"}
+{"prefLabel":"Denomination / Religion","uri":"http://purl.org/lobid/rpb#n503090"}
+{"prefLabel":"Bevölkerungsentwicklung","uri":"http://purl.org/lobid/rpb#n503200"}
+{"prefLabel":"Bevölkerungspolitik","uri":"http://purl.org/lobid/rpb#n503220"}
+{"prefLabel":"Geburt / Statistik","uri":"http://purl.org/lobid/rpb#n503230"}
+{"prefLabel":"Heirat / Statistik","uri":"http://purl.org/lobid/rpb#n503240"}
+{"prefLabel":"Tod / Statistik","uri":"http://purl.org/lobid/rpb#n503250"}
+{"prefLabel":"Bevölkerungsentwicklung / Prognose","uri":"http://purl.org/lobid/rpb#n503260"}
+{"prefLabel":"Migration","uri":"http://purl.org/lobid/rpb#n503400"}
+{"prefLabel":"Binnenwanderung","uri":"http://purl.org/lobid/rpb#n503420"}
+{"prefLabel":"Berufspendlerin. Berufspendler","uri":"http://purl.org/lobid/rpb#n503424"}
+{"prefLabel":"Auswanderung","uri":"http://purl.org/lobid/rpb#n503430"}
+{"prefLabel":"Einwanderung","uri":"http://purl.org/lobid/rpb#n503440"}
+{"prefLabel":"Bevölkerungsdichte","uri":"http://purl.org/lobid/rpb#n503600"}
+{"prefLabel":"Sozialwesen","uri":"http://purl.org/lobid/rpb#n520000"}
+{"prefLabel":"Sozialwesen allgemein","uri":"http://purl.org/lobid/rpb#n520100"}
+{"prefLabel":"Sozialpolitik","uri":"http://purl.org/lobid/rpb#n521000"}
+{"prefLabel":"Sozialrecht","uri":"http://purl.org/lobid/rpb#n521200"}
+{"prefLabel":"Sozialversicherung","uri":"http://purl.org/lobid/rpb#n521400"}
+{"prefLabel":"Krankenversicherung","uri":"http://purl.org/lobid/rpb#n521410"}
+{"prefLabel":"Unfallversicherung","uri":"http://purl.org/lobid/rpb#n521420"}
+{"prefLabel":"Rentenversicherung","uri":"http://purl.org/lobid/rpb#n521430"}
+{"prefLabel":"Arbeitslosenversicherung","uri":"http://purl.org/lobid/rpb#n521450"}
+{"prefLabel":"Sozialhilfe / Kostenträger","uri":"http://purl.org/lobid/rpb#n522000"}
+{"prefLabel":"Öffentlicher Träger","uri":"http://purl.org/lobid/rpb#n522010"}
+{"prefLabel":"Kirchlicher Träger","uri":"http://purl.org/lobid/rpb#n522020"}
+{"prefLabel":"Privater Träger","uri":"http://purl.org/lobid/rpb#n522030"}
+{"prefLabel":"Karitative Stiftung","uri":"http://purl.org/lobid/rpb#n522050"}
+{"prefLabel":"Sozialhilfe","uri":"http://purl.org/lobid/rpb#n523000"}
+{"prefLabel":"Arbeitslosenunterstützung","uri":"http://purl.org/lobid/rpb#n523010"}
+{"prefLabel":"Fürsorge","uri":"http://purl.org/lobid/rpb#n523030"}
+{"prefLabel":"Obdachlosenhilfe","uri":"http://purl.org/lobid/rpb#n523035"}
+{"prefLabel":"Unfallfürsorge","uri":"http://purl.org/lobid/rpb#n523040"}
+{"prefLabel":"Krankenfürsorge","uri":"http://purl.org/lobid/rpb#n523050"}
+{"prefLabel":"Behindertenhilfe","uri":"http://purl.org/lobid/rpb#n523060"}
+{"prefLabel":"Kriegsopferfürsorge","uri":"http://purl.org/lobid/rpb#n523070"}
+{"prefLabel":"Gefangenenfürsorge","uri":"http://purl.org/lobid/rpb#n523075"}
+{"prefLabel":"Waisenfürsorge","uri":"http://purl.org/lobid/rpb#n523080"}
+{"prefLabel":"Altenhilfe","uri":"http://purl.org/lobid/rpb#n523090"}
+{"prefLabel":"Sozialpädagogik","uri":"http://purl.org/lobid/rpb#n524000"}
+{"prefLabel":"Jugendhilfe","uri":"http://purl.org/lobid/rpb#n524010"}
+{"prefLabel":"Bewährungshilfe","uri":"http://purl.org/lobid/rpb#n524050"}
+{"prefLabel":"Erziehungsberatung","uri":"http://purl.org/lobid/rpb#n524060"}
+{"prefLabel":"Familienfürsorge","uri":"http://purl.org/lobid/rpb#n524070"}
+{"prefLabel":"Berufsbetreuung","uri":"http://purl.org/lobid/rpb#n524080"}
+{"prefLabel":"Gesundheitswesen","uri":"http://purl.org/lobid/rpb#n530000"}
+{"prefLabel":"Gesundheitswesen allgemein","uri":"http://purl.org/lobid/rpb#n530100"}
+{"prefLabel":"Medizin","uri":"http://purl.org/lobid/rpb#n532000"}
+{"prefLabel":"Medizin / Geschichte","uri":"http://purl.org/lobid/rpb#n532010"}
+{"prefLabel":"Medizinische Versorgung","uri":"http://purl.org/lobid/rpb#n532030"}
+{"prefLabel":"Ärztin. Arzt. Heilberuf","uri":"http://purl.org/lobid/rpb#n532050"}
+{"prefLabel":"Gesundheitsvorsorge","uri":"http://purl.org/lobid/rpb#n532070"}
+{"prefLabel":"Apotheke","uri":"http://purl.org/lobid/rpb#n533000"}
+{"prefLabel":"Krankenversorgung","uri":"http://purl.org/lobid/rpb#n534000"}
+{"prefLabel":"Krankenpflege","uri":"http://purl.org/lobid/rpb#n534010"}
+{"prefLabel":"Krankenpflege / Beruf","uri":"http://purl.org/lobid/rpb#n534020"}
+{"prefLabel":"Krankenhaus","uri":"http://purl.org/lobid/rpb#n534030"}
+{"prefLabel":"Sanatorium","uri":"http://purl.org/lobid/rpb#n534050"}
+{"prefLabel":"Suchtkrankenhilfe","uri":"http://purl.org/lobid/rpb#n534060"}
+{"prefLabel":"Psychiatrie","uri":"http://purl.org/lobid/rpb#n534080"}
+{"prefLabel":"Hygiene","uri":"http://purl.org/lobid/rpb#n535000"}
+{"prefLabel":"Veterinärwesen","uri":"http://purl.org/lobid/rpb#n537000"}
+{"prefLabel":"Wirtschaft","uri":"http://purl.org/lobid/rpb#n540000"}
+{"prefLabel":"Wirtschaft allgemein","uri":"http://purl.org/lobid/rpb#n540100"}
+{"prefLabel":"Wirtschaftspolitik","uri":"http://purl.org/lobid/rpb#n541000"}
+{"prefLabel":"Wirtschaftsrecht","uri":"http://purl.org/lobid/rpb#n541500"}
+{"prefLabel":"Wirtschaft / Geschichte","uri":"http://purl.org/lobid/rpb#n542000"}
+{"prefLabel":"Wirtschaftsstruktur","uri":"http://purl.org/lobid/rpb#n543000"}
+{"prefLabel":"Wirtschaftsförderung","uri":"http://purl.org/lobid/rpb#n543010"}
+{"prefLabel":"Bruttoinlandsprodukt","uri":"http://purl.org/lobid/rpb#n543040"}
+{"prefLabel":"Außenwirtschaft","uri":"http://purl.org/lobid/rpb#n543060"}
+{"prefLabel":"Wirtschaftsstatistik","uri":"http://purl.org/lobid/rpb#n543080"}
+{"prefLabel":"Wirtschaftsverfassung","uri":"http://purl.org/lobid/rpb#n543200"}
+{"prefLabel":"Wirtschaftsverband","uri":"http://purl.org/lobid/rpb#n543400"}
+{"prefLabel":"Industrie- und Handelskammer","uri":"http://purl.org/lobid/rpb#n543430"}
+{"prefLabel":"Verbraucherverband","uri":"http://purl.org/lobid/rpb#n543440"}
+{"prefLabel":"Arbeitgeberverband","uri":"http://purl.org/lobid/rpb#n543460"}
+{"prefLabel":"Gewerkschaft","uri":"http://purl.org/lobid/rpb#n543480"}
+{"prefLabel":"Arbeitsmarkt","uri":"http://purl.org/lobid/rpb#n543600"}
+{"prefLabel":"Unternehmerin. Unternehmer","uri":"http://purl.org/lobid/rpb#n543620"}
+{"prefLabel":"Arbeitnehmerin. Arbeitnehmer","uri":"http://purl.org/lobid/rpb#n543630"}
+{"prefLabel":"Freier Beruf","uri":"http://purl.org/lobid/rpb#n543640"}
+{"prefLabel":"Lohn","uri":"http://purl.org/lobid/rpb#n543660"}
+{"prefLabel":"Arbeitslosigkeit","uri":"http://purl.org/lobid/rpb#n543680"}
+{"prefLabel":"Marketing","uri":"http://purl.org/lobid/rpb#n543800"}
+{"prefLabel":"Landwirtschaft","uri":"http://purl.org/lobid/rpb#n544000"}
+{"prefLabel":"Agrarpolitik","uri":"http://purl.org/lobid/rpb#n544010"}
+{"prefLabel":"Landwirtschaft / Geschichte","uri":"http://purl.org/lobid/rpb#n544020"}
+{"prefLabel":"Bauernhof / Geschichte","uri":"http://purl.org/lobid/rpb#n544030"}
+{"prefLabel":"Flurform","uri":"http://purl.org/lobid/rpb#n544040"}
+{"prefLabel":"Landwirtschaft / Beruf","uri":"http://purl.org/lobid/rpb#n544050"}
+{"prefLabel":"Bäuerin. Bauer","uri":"http://purl.org/lobid/rpb#n544052"}
+{"prefLabel":"Landfrau","uri":"http://purl.org/lobid/rpb#n544054"}
+{"prefLabel":"Landarbeiterin. Landarbeiter","uri":"http://purl.org/lobid/rpb#n544056"}
+{"prefLabel":"Landwirtschaftliche Betriebslehre","uri":"http://purl.org/lobid/rpb#n544060"}
+{"prefLabel":"Landwirtschaftsgenossenschaft","uri":"http://purl.org/lobid/rpb#n544090"}
+{"prefLabel":"Agrarproduktion","uri":"http://purl.org/lobid/rpb#n544200"}
+{"prefLabel":"Ackerbau","uri":"http://purl.org/lobid/rpb#n544220"}
+{"prefLabel":"Grünlandwirtschaft","uri":"http://purl.org/lobid/rpb#n544230"}
+{"prefLabel":"Gartenbau","uri":"http://purl.org/lobid/rpb#n544240"}
+{"prefLabel":"Baumschule","uri":"http://purl.org/lobid/rpb#n544245"}
+{"prefLabel":"Obstbau","uri":"http://purl.org/lobid/rpb#n544250"}
+{"prefLabel":"Tierzucht","uri":"http://purl.org/lobid/rpb#n544280"}
+{"prefLabel":"Weinbau","uri":"http://purl.org/lobid/rpb#n544300"}
+{"prefLabel":"Weinbau / Geschichte","uri":"http://purl.org/lobid/rpb#n544310"}
+{"prefLabel":"Weinbaugebiet","uri":"http://purl.org/lobid/rpb#n544320"}
+{"prefLabel":"Großlage","uri":"http://purl.org/lobid/rpb#n544322"}
+{"prefLabel":"Weingut","uri":"http://purl.org/lobid/rpb#n544325"}
+{"prefLabel":"Weinherstellung","uri":"http://purl.org/lobid/rpb#n544340"}
+{"prefLabel":"Schaumweinherstellung","uri":"http://purl.org/lobid/rpb#n544341"}
+{"prefLabel":"Branntweinherstellung","uri":"http://purl.org/lobid/rpb#n544344"}
+{"prefLabel":"Weinhandel","uri":"http://purl.org/lobid/rpb#n544360"}
+{"prefLabel":"Schaumwein / Handel","uri":"http://purl.org/lobid/rpb#n544361"}
+{"prefLabel":"Forstwirtschaft","uri":"http://purl.org/lobid/rpb#n544400"}
+{"prefLabel":"Forstrecht","uri":"http://purl.org/lobid/rpb#n544410"}
+{"prefLabel":"Forstwirtschaft / Geschichte","uri":"http://purl.org/lobid/rpb#n544420"}
+{"prefLabel":"Forstproduktion","uri":"http://purl.org/lobid/rpb#n544440"}
+{"prefLabel":"Baumart","uri":"http://purl.org/lobid/rpb#n544450"}
+{"prefLabel":"Forst","uri":"http://purl.org/lobid/rpb#n544460"}
+{"prefLabel":"Försterin. Förster","uri":"http://purl.org/lobid/rpb#n544490"}
+{"prefLabel":"Jagd. Fischfang","uri":"http://purl.org/lobid/rpb#n544600"}
+{"prefLabel":"Jagd","uri":"http://purl.org/lobid/rpb#n544610"}
+{"prefLabel":"Jagdrecht","uri":"http://purl.org/lobid/rpb#n544620"}
+{"prefLabel":"Wild","uri":"http://purl.org/lobid/rpb#n544640"}
+{"prefLabel":"Fischfang","uri":"http://purl.org/lobid/rpb#n544650"}
+{"prefLabel":"Fischereirecht","uri":"http://purl.org/lobid/rpb#n544660"}
+{"prefLabel":"Fischzucht","uri":"http://purl.org/lobid/rpb#n544670"}
+{"prefLabel":"Bergbau","uri":"http://purl.org/lobid/rpb#n545000"}
+{"prefLabel":"Bergrecht","uri":"http://purl.org/lobid/rpb#n545010"}
+{"prefLabel":"Bergbau / Geschichte","uri":"http://purl.org/lobid/rpb#n545020"}
+{"prefLabel":"Kohlenbergbau","uri":"http://purl.org/lobid/rpb#n545030"}
+{"prefLabel":"Gesteinsabbau","uri":"http://purl.org/lobid/rpb#n545040"}
+{"prefLabel":"Erzbergbau","uri":"http://purl.org/lobid/rpb#n545050"}
+{"prefLabel":"Salzbergbau. Kalibergbau","uri":"http://purl.org/lobid/rpb#n545060"}
+{"prefLabel":"Erdöl","uri":"http://purl.org/lobid/rpb#n545070"}
+{"prefLabel":"Erdgas","uri":"http://purl.org/lobid/rpb#n545080"}
+{"prefLabel":"Energiewirtschaft","uri":"http://purl.org/lobid/rpb#n546000"}
+{"prefLabel":"Elektrizitätsversorgung","uri":"http://purl.org/lobid/rpb#n546020"}
+{"prefLabel":"Wasserkraftwerk","uri":"http://purl.org/lobid/rpb#n546022"}
+{"prefLabel":"Wärmekraftwerk","uri":"http://purl.org/lobid/rpb#n546024"}
+{"prefLabel":"Kernkraftwerk","uri":"http://purl.org/lobid/rpb#n546026"}
+{"prefLabel":"Alternative Energiequelle","uri":"http://purl.org/lobid/rpb#n546028"}
+{"prefLabel":"Gasversorgung","uri":"http://purl.org/lobid/rpb#n546040"}
+{"prefLabel":"Verbundwirtschaft","uri":"http://purl.org/lobid/rpb#n546060"}
+{"prefLabel":"Handwerk","uri":"http://purl.org/lobid/rpb#n547000"}
+{"prefLabel":"Handwerk / Geschichte","uri":"http://purl.org/lobid/rpb#n547020"}
+{"prefLabel":"Handwerk / Beruf","uri":"http://purl.org/lobid/rpb#n547030"}
+{"prefLabel":"Handwerksbetrieb","uri":"http://purl.org/lobid/rpb#n547035"}
+{"prefLabel":"Handwerksorganisation","uri":"http://purl.org/lobid/rpb#n547040"}
+{"prefLabel":"Handwerkskammer","uri":"http://purl.org/lobid/rpb#n547042"}
+{"prefLabel":"Innung","uri":"http://purl.org/lobid/rpb#n547044"}
+{"prefLabel":"Industrie","uri":"http://purl.org/lobid/rpb#n547400"}
+{"prefLabel":"Industrie / Geschichte","uri":"http://purl.org/lobid/rpb#n547420"}
+{"prefLabel":"Industriezweig","uri":"http://purl.org/lobid/rpb#n547440"}
+{"prefLabel":"Industriebetrieb","uri":"http://purl.org/lobid/rpb#n547460"}
+{"prefLabel":"Technik. Technologie","uri":"http://purl.org/lobid/rpb#n547600"}
+{"prefLabel":"Handel","uri":"http://purl.org/lobid/rpb#n548000"}
+{"prefLabel":"Handelsrecht","uri":"http://purl.org/lobid/rpb#n548010"}
+{"prefLabel":"Handel / Geschichte","uri":"http://purl.org/lobid/rpb#n548020"}
+{"prefLabel":"Handelsform","uri":"http://purl.org/lobid/rpb#n548030"}
+{"prefLabel":"Messe / Wirtschaft","uri":"http://purl.org/lobid/rpb#n548040"}
+{"prefLabel":"Markt","uri":"http://purl.org/lobid/rpb#n548045"}
+{"prefLabel":"Firma","uri":"http://purl.org/lobid/rpb#n548050"}
+{"prefLabel":"Handelsgut","uri":"http://purl.org/lobid/rpb#n548060"}
+{"prefLabel":"Handelsgenossenschaft","uri":"http://purl.org/lobid/rpb#n548090"}
+{"prefLabel":"Dienstleistungssektor","uri":"http://purl.org/lobid/rpb#n548200"}
+{"prefLabel":"Dienstleistungsbetrieb","uri":"http://purl.org/lobid/rpb#n548250"}
+{"prefLabel":"Öffentliches Unternehmen","uri":"http://purl.org/lobid/rpb#n548300"}
+{"prefLabel":"Bank","uri":"http://purl.org/lobid/rpb#n548400"}
+{"prefLabel":"Versicherung","uri":"http://purl.org/lobid/rpb#n548600"}
+{"prefLabel":"Tourismus","uri":"http://purl.org/lobid/rpb#n548800"}
+{"prefLabel":"Kurort","uri":"http://purl.org/lobid/rpb#n548820"}
+{"prefLabel":"Naherholung","uri":"http://purl.org/lobid/rpb#n548830"}
+{"prefLabel":"Gastgewerbe","uri":"http://purl.org/lobid/rpb#n548840"}
+{"prefLabel":"Jugendherberge","uri":"http://purl.org/lobid/rpb#n548870"}
+{"prefLabel":"Verkehr","uri":"http://purl.org/lobid/rpb#n550000"}
+{"prefLabel":"Verkehr allgemein","uri":"http://purl.org/lobid/rpb#n550100"}
+{"prefLabel":"Verkehrsrecht","uri":"http://purl.org/lobid/rpb#n551000"}
+{"prefLabel":"Verkehr / Geschichte","uri":"http://purl.org/lobid/rpb#n552000"}
+{"prefLabel":"Straßenverkehr","uri":"http://purl.org/lobid/rpb#n553000"}
+{"prefLabel":"Öffentlicher Personennahverkehr","uri":"http://purl.org/lobid/rpb#n554000"}
+{"prefLabel":"Eisenbahn","uri":"http://purl.org/lobid/rpb#n555000"}
+{"prefLabel":"Eisenbahn / Geschichte","uri":"http://purl.org/lobid/rpb#n555020"}
+{"prefLabel":"Luftverkehr","uri":"http://purl.org/lobid/rpb#n556000"}
+{"prefLabel":"Schifffahrt","uri":"http://purl.org/lobid/rpb#n557000"}
+{"prefLabel":"Schifffahrt / Geschichte","uri":"http://purl.org/lobid/rpb#n557020"}
+{"prefLabel":"Kanal","uri":"http://purl.org/lobid/rpb#n557040"}
+{"prefLabel":"Hafen","uri":"http://purl.org/lobid/rpb#n557060"}
+{"prefLabel":"Post. Fernmeldewesen","uri":"http://purl.org/lobid/rpb#n558000"}
+{"prefLabel":"Post / Geschichte","uri":"http://purl.org/lobid/rpb#n558020"}
+{"prefLabel":"Briefmarke","uri":"http://purl.org/lobid/rpb#n558040"}
+{"prefLabel":"Fernmeldewesen","uri":"http://purl.org/lobid/rpb#n558050"}
+{"prefLabel":"Siedlung","uri":"http://purl.org/lobid/rpb#n560000"}
+{"prefLabel":"Siedlung allgemein","uri":"http://purl.org/lobid/rpb#n560100"}
+{"prefLabel":"Siedlung / Geschichte","uri":"http://purl.org/lobid/rpb#n562000"}
+{"prefLabel":"Wüstung","uri":"http://purl.org/lobid/rpb#n562040"}
+{"prefLabel":"Allmende","uri":"http://purl.org/lobid/rpb#n562060"}
+{"prefLabel":"Kulturlandschaft","uri":"http://purl.org/lobid/rpb#n562300"}
+{"prefLabel":"Siedlungsraum","uri":"http://purl.org/lobid/rpb#n562600"}
+{"prefLabel":"Siedlungsform","uri":"http://purl.org/lobid/rpb#n563000"}
+{"prefLabel":"Industriestadt","uri":"http://purl.org/lobid/rpb#n563020"}
+{"prefLabel":"Marktzentrum","uri":"http://purl.org/lobid/rpb#n563030"}
+{"prefLabel":"Wohnsiedlung","uri":"http://purl.org/lobid/rpb#n563040"}
+{"prefLabel":"Gewerbegebiet","uri":"http://purl.org/lobid/rpb#n563050"}
+{"prefLabel":"Ländliche Siedlung","uri":"http://purl.org/lobid/rpb#n564000"}
+{"prefLabel":"Ländliche Siedlungsform","uri":"http://purl.org/lobid/rpb#n564040"}
+{"prefLabel":"Dorf / Topographie","uri":"http://purl.org/lobid/rpb#n564050"}
+{"prefLabel":"Dorferneuerung","uri":"http://purl.org/lobid/rpb#n564080"}
+{"prefLabel":"Stadt","uri":"http://purl.org/lobid/rpb#n566000"}
+{"prefLabel":"Stadttyp","uri":"http://purl.org/lobid/rpb#n566010"}
+{"prefLabel":"Städtische Siedlungsform","uri":"http://purl.org/lobid/rpb#n566020"}
+{"prefLabel":"Stadtgliederung","uri":"http://purl.org/lobid/rpb#n566040"}
+{"prefLabel":"Stadtkern","uri":"http://purl.org/lobid/rpb#n566041"}
+{"prefLabel":"Vorort","uri":"http://purl.org/lobid/rpb#n566042"}
+{"prefLabel":"Geschäftsviertel","uri":"http://purl.org/lobid/rpb#n566043"}
+{"prefLabel":"Stadtteil","uri":"http://purl.org/lobid/rpb#n566045"}
+{"prefLabel":"Stadt / Erholungsgebiet","uri":"http://purl.org/lobid/rpb#n566046"}
+{"prefLabel":"Stadt / Topographie","uri":"http://purl.org/lobid/rpb#n566050"}
+{"prefLabel":"Platz","uri":"http://purl.org/lobid/rpb#n566051"}
+{"prefLabel":"Straße","uri":"http://purl.org/lobid/rpb#n566052"}
+{"prefLabel":"Öffentliches Gebäude","uri":"http://purl.org/lobid/rpb#n566053"}
+{"prefLabel":"Verstädterung","uri":"http://purl.org/lobid/rpb#n566060"}
+{"prefLabel":"Ballungsraum","uri":"http://purl.org/lobid/rpb#n566070"}
+{"prefLabel":"Stadt / Umland","uri":"http://purl.org/lobid/rpb#n566080"}
+{"prefLabel":"Raumordnung und Städtebau","uri":"http://purl.org/lobid/rpb#n570000"}
+{"prefLabel":"Raumordnung und Städtebau allgemein","uri":"http://purl.org/lobid/rpb#n570100"}
+{"prefLabel":"Raumordnung","uri":"http://purl.org/lobid/rpb#n572000"}
+{"prefLabel":"Landesplanung","uri":"http://purl.org/lobid/rpb#n572020"}
+{"prefLabel":"Regionalplanung","uri":"http://purl.org/lobid/rpb#n572030"}
+{"prefLabel":"Kreisplanung","uri":"http://purl.org/lobid/rpb#n572040"}
+{"prefLabel":"Landschaftsplanung","uri":"http://purl.org/lobid/rpb#n572050"}
+{"prefLabel":"Gemeindeplanung","uri":"http://purl.org/lobid/rpb#n572060"}
+{"prefLabel":"Bauwesen","uri":"http://purl.org/lobid/rpb#n574000"}
+{"prefLabel":"Bau- und Bodenrecht","uri":"http://purl.org/lobid/rpb#n574020"}
+{"prefLabel":"Städtebau","uri":"http://purl.org/lobid/rpb#n574030"}
+{"prefLabel":"Straßenbau","uri":"http://purl.org/lobid/rpb#n574040"}
+{"prefLabel":"Wohnungsbau","uri":"http://purl.org/lobid/rpb#n574050"}
+{"prefLabel":"Wohnungswirtschaft","uri":"http://purl.org/lobid/rpb#n574060"}
+{"prefLabel":"Umwelt- und Naturschutz","uri":"http://purl.org/lobid/rpb#n580000"}
+{"prefLabel":"Umwelt- und Naturschutz allgemein","uri":"http://purl.org/lobid/rpb#n580100"}
+{"prefLabel":"Umweltschutz","uri":"http://purl.org/lobid/rpb#n582000"}
+{"prefLabel":"Klimaschutz","uri":"http://purl.org/lobid/rpb#n582010"}
+{"prefLabel":"Bodenschutz","uri":"http://purl.org/lobid/rpb#n582020"}
+{"prefLabel":"Luftverschmutzung","uri":"http://purl.org/lobid/rpb#n582030"}
+{"prefLabel":"Lärmbelastung","uri":"http://purl.org/lobid/rpb#n582040"}
+{"prefLabel":"Gewässerschutz","uri":"http://purl.org/lobid/rpb#n582050"}
+{"prefLabel":"Abwasser","uri":"http://purl.org/lobid/rpb#n582052"}
+{"prefLabel":"Kanalisation","uri":"http://purl.org/lobid/rpb#n582054"}
+{"prefLabel":"Abfallbeseitigung","uri":"http://purl.org/lobid/rpb#n582060"}
+{"prefLabel":"Strahlenbelastung","uri":"http://purl.org/lobid/rpb#n582070"}
+{"prefLabel":"Naturschutz. Landschaftspflege","uri":"http://purl.org/lobid/rpb#n584000"}
+{"prefLabel":"Naturdenkmal","uri":"http://purl.org/lobid/rpb#n584040"}
+{"prefLabel":"Pflanzen / Artenschutz","uri":"http://purl.org/lobid/rpb#n584050"}
+{"prefLabel":"Tierschutz","uri":"http://purl.org/lobid/rpb#n584060"}
+{"prefLabel":"Naturschutzgebiet","uri":"http://purl.org/lobid/rpb#n584070"}
+{"prefLabel":"Nationalpark","uri":"http://purl.org/lobid/rpb#n584075"}
+{"prefLabel":"Naturpark","uri":"http://purl.org/lobid/rpb#n584080"}
+{"prefLabel":"Landschaftsentwicklung","uri":"http://purl.org/lobid/rpb#n584090"}
+{"prefLabel":"Grünanlage","uri":"http://purl.org/lobid/rpb#n586000"}
+{"prefLabel":"Park","uri":"http://purl.org/lobid/rpb#n586020"}
+{"prefLabel":"Botanischer Garten","uri":"http://purl.org/lobid/rpb#n586030"}
+{"prefLabel":"Zoologischer Garten","uri":"http://purl.org/lobid/rpb#n586040"}
+{"prefLabel":"Gartenbauausstellung","uri":"http://purl.org/lobid/rpb#n586080"}
+{"prefLabel":"Kirche","uri":"http://purl.org/lobid/rpb#n610000"}
+{"prefLabel":"Kirche allgemein","uri":"http://purl.org/lobid/rpb#n610100"}
+{"prefLabel":"Katholische Kirche","uri":"http://purl.org/lobid/rpb#n611000"}
+{"prefLabel":"Kirchengeschichte","uri":"http://purl.org/lobid/rpb#n611010"}
+{"prefLabel":"Kirchenrecht","uri":"http://purl.org/lobid/rpb#n611020"}
+{"prefLabel":"Kirchenverwaltung","uri":"http://purl.org/lobid/rpb#n611025"}
+{"prefLabel":"Kirchengemeinde","uri":"http://purl.org/lobid/rpb#n611030"}
+{"prefLabel":"Kirchliches Leben","uri":"http://purl.org/lobid/rpb#n611040"}
+{"prefLabel":"Seelsorge","uri":"http://purl.org/lobid/rpb#n611042"}
+{"prefLabel":"Laienamt","uri":"http://purl.org/lobid/rpb#n611043"}
+{"prefLabel":"Kirchlicher Verein","uri":"http://purl.org/lobid/rpb#n611044"}
+{"prefLabel":"Kirchliche Stiftung","uri":"http://purl.org/lobid/rpb#n611045"}
+{"prefLabel":"Geistlicher. Ordensleute","uri":"http://purl.org/lobid/rpb#n611050"}
+{"prefLabel":"Kloster. Stift","uri":"http://purl.org/lobid/rpb#n611060"}
+{"prefLabel":"Orden","uri":"http://purl.org/lobid/rpb#n611070"}
+{"prefLabel":"Gottesdienst","uri":"http://purl.org/lobid/rpb#n611080"}
+{"prefLabel":"Sakrament","uri":"http://purl.org/lobid/rpb#n611082"}
+{"prefLabel":"Kirchenfest","uri":"http://purl.org/lobid/rpb#n611083"}
+{"prefLabel":"Prozession","uri":"http://purl.org/lobid/rpb#n611084"}
+{"prefLabel":"Wallfahrt","uri":"http://purl.org/lobid/rpb#n611085"}
+{"prefLabel":"Heiligenverehrung","uri":"http://purl.org/lobid/rpb#n611090"}
+{"prefLabel":"Reformation","uri":"http://purl.org/lobid/rpb#n612000"}
+{"prefLabel":"Calvinismus","uri":"http://purl.org/lobid/rpb#n612020"}
+{"prefLabel":"Zwinglianer","uri":"http://purl.org/lobid/rpb#n612022"}
+{"prefLabel":"Täufer","uri":"http://purl.org/lobid/rpb#n612030"}
+{"prefLabel":"Mennoniten","uri":"http://purl.org/lobid/rpb#n612032"}
+{"prefLabel":"Schwärmer / Theologie","uri":"http://purl.org/lobid/rpb#n612040"}
+{"prefLabel":"Reformator","uri":"http://purl.org/lobid/rpb#n612050"}
+{"prefLabel":"Glaubensflüchtling","uri":"http://purl.org/lobid/rpb#n612070"}
+{"prefLabel":"Hugenotten","uri":"http://purl.org/lobid/rpb#n612080"}
+{"prefLabel":"Gegenreformation","uri":"http://purl.org/lobid/rpb#n612500"}
+{"prefLabel":"Evangelische Kirche","uri":"http://purl.org/lobid/rpb#n613000"}
+{"prefLabel":"Kirchengeschichte","uri":"http://purl.org/lobid/rpb#n613010"}
+{"prefLabel":"Kirchenrecht","uri":"http://purl.org/lobid/rpb#n613020"}
+{"prefLabel":"Kirchenverwaltung","uri":"http://purl.org/lobid/rpb#n613025"}
+{"prefLabel":"Kirchengemeinde","uri":"http://purl.org/lobid/rpb#n613030"}
+{"prefLabel":"Kirchliches Leben","uri":"http://purl.org/lobid/rpb#n613040"}
+{"prefLabel":"Seelsorge","uri":"http://purl.org/lobid/rpb#n613042"}
+{"prefLabel":"Diakonie","uri":"http://purl.org/lobid/rpb#n613043"}
+{"prefLabel":"Kirchlicher Verein","uri":"http://purl.org/lobid/rpb#n613044"}
+{"prefLabel":"Kirchliche Stiftung","uri":"http://purl.org/lobid/rpb#n613045"}
+{"prefLabel":"Pfarrerin. Pfarrer. Geistliche","uri":"http://purl.org/lobid/rpb#n613050"}
+{"prefLabel":"Gottesdienst","uri":"http://purl.org/lobid/rpb#n613070"}
+{"prefLabel":"Sakrament","uri":"http://purl.org/lobid/rpb#n613072"}
+{"prefLabel":"Kirchenfest","uri":"http://purl.org/lobid/rpb#n613073"}
+{"prefLabel":"Sonstige christliche Religionsgemeinschaften","uri":"http://purl.org/lobid/rpb#n615000"}
+{"prefLabel":"Ökumene","uri":"http://purl.org/lobid/rpb#n616000"}
+{"prefLabel":"Bestattung","uri":"http://purl.org/lobid/rpb#n617000"}
+{"prefLabel":"Friedhof","uri":"http://purl.org/lobid/rpb#n617030"}
+{"prefLabel":"Grabmal","uri":"http://purl.org/lobid/rpb#n617050"}
+{"prefLabel":"Juden","uri":"http://purl.org/lobid/rpb#n630000"}
+{"prefLabel":"Juden allgemein","uri":"http://purl.org/lobid/rpb#n630100"}
+{"prefLabel":"Judentum","uri":"http://purl.org/lobid/rpb#n631000"}
+{"prefLabel":"Juden / Geschichte","uri":"http://purl.org/lobid/rpb#n632000"}
+{"prefLabel":"Judenverfolgung","uri":"http://purl.org/lobid/rpb#n632050"}
+{"prefLabel":"Nichtchristliche Religion","uri":"http://purl.org/lobid/rpb#n650000"}
+{"prefLabel":"Nichtchristliche Religion allgemein","uri":"http://purl.org/lobid/rpb#n651000"}
+{"prefLabel":"Islam","uri":"http://purl.org/lobid/rpb#n651020"}
+{"prefLabel":"Buddhismus","uri":"http://purl.org/lobid/rpb#n651030"}
+{"prefLabel":"Weltanschauungsgemeinschaft","uri":"http://purl.org/lobid/rpb#n655000"}
+{"prefLabel":"Freimaurer","uri":"http://purl.org/lobid/rpb#n655030"}
+{"prefLabel":"Volkskunde","uri":"http://purl.org/lobid/rpb#n700000"}
+{"prefLabel":"Volkskunde allgemein","uri":"http://purl.org/lobid/rpb#n700100"}
+{"prefLabel":"Alltag","uri":"http://purl.org/lobid/rpb#n702000"}
+{"prefLabel":"Brauch","uri":"http://purl.org/lobid/rpb#n704000"}
+{"prefLabel":"Brauch / Alltag","uri":"http://purl.org/lobid/rpb#n704020"}
+{"prefLabel":"Brauch / Jahreslauf","uri":"http://purl.org/lobid/rpb#n704040"}
+{"prefLabel":"Winter / Brauch. Weihnachten. Neujahr","uri":"http://purl.org/lobid/rpb#n704042"}
+{"prefLabel":"Karneval","uri":"http://purl.org/lobid/rpb#n704043"}
+{"prefLabel":"Frühling / Brauch. Ostern","uri":"http://purl.org/lobid/rpb#n704044"}
+{"prefLabel":"Mai / Brauch. Pfingsten. Sommer / Brauch","uri":"http://purl.org/lobid/rpb#n704045"}
+{"prefLabel":"Erntedankfest","uri":"http://purl.org/lobid/rpb#n704046"}
+{"prefLabel":"Kirchweih","uri":"http://purl.org/lobid/rpb#n704047"}
+{"prefLabel":"Lebenslauf / Brauch","uri":"http://purl.org/lobid/rpb#n704060"}
+{"prefLabel":"Geburt","uri":"http://purl.org/lobid/rpb#n704061"}
+{"prefLabel":"Liebe / Brauch. Verlobung. Hochzeit","uri":"http://purl.org/lobid/rpb#n704063"}
+{"prefLabel":"Tod / Brauch. Bestattung","uri":"http://purl.org/lobid/rpb#n704064"}
+{"prefLabel":"Beruf / Brauch","uri":"http://purl.org/lobid/rpb#n704080"}
+{"prefLabel":"Handwerk / Brauch","uri":"http://purl.org/lobid/rpb#n704082"}
+{"prefLabel":"Brauchtumspflege / Verein","uri":"http://purl.org/lobid/rpb#n704090"}
+{"prefLabel":"Volkswissen","uri":"http://purl.org/lobid/rpb#n704200"}
+{"prefLabel":"Volksmedizin","uri":"http://purl.org/lobid/rpb#n704220"}
+{"prefLabel":"Ethnobotanik","uri":"http://purl.org/lobid/rpb#n704230"}
+{"prefLabel":"Volkszoologie","uri":"http://purl.org/lobid/rpb#n704240"}
+{"prefLabel":"Wetter / Bauernregel","uri":"http://purl.org/lobid/rpb#n704250"}
+{"prefLabel":"Astrologie","uri":"http://purl.org/lobid/rpb#n704260"}
+{"prefLabel":"Wahrsagen","uri":"http://purl.org/lobid/rpb#n704270"}
+{"prefLabel":"Alchemie","uri":"http://purl.org/lobid/rpb#n704280"}
+{"prefLabel":"Rechtliche Volkskunde","uri":"http://purl.org/lobid/rpb#n704400"}
+{"prefLabel":"Religiöse Volkskunde","uri":"http://purl.org/lobid/rpb#n704600"}
+{"prefLabel":"Volksfrömmigkeit","uri":"http://purl.org/lobid/rpb#n704630"}
+{"prefLabel":"Gegenstände der Volksfrömmigkeit","uri":"http://purl.org/lobid/rpb#n704634"}
+{"prefLabel":"Volksglaube","uri":"http://purl.org/lobid/rpb#n704700"}
+{"prefLabel":"Volksliteratur","uri":"http://purl.org/lobid/rpb#n706000"}
+{"prefLabel":"Volksbuch","uri":"http://purl.org/lobid/rpb#n706020"}
+{"prefLabel":"Märchen. Sage. Legende","uri":"http://purl.org/lobid/rpb#n706040"}
+{"prefLabel":"Schwank","uri":"http://purl.org/lobid/rpb#n706050"}
+{"prefLabel":"Witz","uri":"http://purl.org/lobid/rpb#n706052"}
+{"prefLabel":"Sprichwort","uri":"http://purl.org/lobid/rpb#n706060"}
+{"prefLabel":"Inschrift","uri":"http://purl.org/lobid/rpb#n706070"}
+{"prefLabel":"Rätsel","uri":"http://purl.org/lobid/rpb#n706080"}
+{"prefLabel":"Mundartliteratur","uri":"http://purl.org/lobid/rpb#n706090"}
+{"prefLabel":"Volksmusik. Volkstanz","uri":"http://purl.org/lobid/rpb#n706200"}
+{"prefLabel":"Volksmusik","uri":"http://purl.org/lobid/rpb#n706210"}
+{"prefLabel":"Volkslied","uri":"http://purl.org/lobid/rpb#n706230"}
+{"prefLabel":"Volkstanz","uri":"http://purl.org/lobid/rpb#n706240"}
+{"prefLabel":"Sachkulturforschung","uri":"http://purl.org/lobid/rpb#n708000"}
+{"prefLabel":"Hausform","uri":"http://purl.org/lobid/rpb#n708020"}
+{"prefLabel":"Bürgerhaus","uri":"http://purl.org/lobid/rpb#n708024"}
+{"prefLabel":"Bauernhaus","uri":"http://purl.org/lobid/rpb#n708026"}
+{"prefLabel":"Landwirtschaftliches Gebäude","uri":"http://purl.org/lobid/rpb#n708028"}
+{"prefLabel":"Mühle","uri":"http://purl.org/lobid/rpb#n708029"}
+{"prefLabel":"Hausrat","uri":"http://purl.org/lobid/rpb#n708030"}
+{"prefLabel":"Gerät","uri":"http://purl.org/lobid/rpb#n708040"}
+{"prefLabel":"Spielzeug","uri":"http://purl.org/lobid/rpb#n708050"}
+{"prefLabel":"Nahrung","uri":"http://purl.org/lobid/rpb#n708060"}
+{"prefLabel":"Volkskunst","uri":"http://purl.org/lobid/rpb#n708200"}
+{"prefLabel":"Holzbearbeitung","uri":"http://purl.org/lobid/rpb#n708220"}
+{"prefLabel":"Malerei","uri":"http://purl.org/lobid/rpb#n708230"}
+{"prefLabel":"Keramik","uri":"http://purl.org/lobid/rpb#n708250"}
+{"prefLabel":"Steinbearbeitung","uri":"http://purl.org/lobid/rpb#n708260"}
+{"prefLabel":"Metallbearbeitung","uri":"http://purl.org/lobid/rpb#n708270"}
+{"prefLabel":"Glas","uri":"http://purl.org/lobid/rpb#n708280"}
+{"prefLabel":"Textilien","uri":"http://purl.org/lobid/rpb#n708290"}
+{"prefLabel":"Kleidung","uri":"http://purl.org/lobid/rpb#n708400"}
+{"prefLabel":"Kostümkunde","uri":"http://purl.org/lobid/rpb#n708420"}
+{"prefLabel":"Tracht","uri":"http://purl.org/lobid/rpb#n708430"}
+{"prefLabel":"Schmuck","uri":"http://purl.org/lobid/rpb#n708450"}
+{"prefLabel":"Gesellschaft","uri":"http://purl.org/lobid/rpb#n720000"}
+{"prefLabel":"Gesellschaft allgemein","uri":"http://purl.org/lobid/rpb#n720100"}
+{"prefLabel":"Sozialgeschichte","uri":"http://purl.org/lobid/rpb#n722000"}
+{"prefLabel":"Sozialstruktur","uri":"http://purl.org/lobid/rpb#n724000"}
+{"prefLabel":"Kind","uri":"http://purl.org/lobid/rpb#n724020"}
+{"prefLabel":"Jugend","uri":"http://purl.org/lobid/rpb#n724030"}
+{"prefLabel":"Frau","uri":"http://purl.org/lobid/rpb#n724040"}
+{"prefLabel":"Mann","uri":"http://purl.org/lobid/rpb#n724050"}
+{"prefLabel":"Alter","uri":"http://purl.org/lobid/rpb#n724060"}
+{"prefLabel":"Original / Person","uri":"http://purl.org/lobid/rpb#n724070"}
+{"prefLabel":"Gruppe","uri":"http://purl.org/lobid/rpb#n725000"}
+{"prefLabel":"Familie","uri":"http://purl.org/lobid/rpb#n725010"}
+{"prefLabel":"Nachbarschaft","uri":"http://purl.org/lobid/rpb#n725020"}
+{"prefLabel":"Dorfgemeinschaft","uri":"http://purl.org/lobid/rpb#n725030"}
+{"prefLabel":"Alternativbewegung","uri":"http://purl.org/lobid/rpb#n725040"}
+{"prefLabel":"Interessenverband","uri":"http://purl.org/lobid/rpb#n725050"}
+{"prefLabel":"Randgruppe","uri":"http://purl.org/lobid/rpb#n725060"}
+{"prefLabel":"Ausländerin. Ausländer","uri":"http://purl.org/lobid/rpb#n725070"}
+{"prefLabel":"Behinderter Mensch","uri":"http://purl.org/lobid/rpb#n725080"}
+{"prefLabel":"Sozialer Wandel","uri":"http://purl.org/lobid/rpb#n726000"}
+{"prefLabel":"Kultur und Freizeit","uri":"http://purl.org/lobid/rpb#n730000"}
+{"prefLabel":"Kultur und Freizeit allgemein","uri":"http://purl.org/lobid/rpb#n730100"}
+{"prefLabel":"Kulturpolitik","uri":"http://purl.org/lobid/rpb#n731000"}
+{"prefLabel":"Kulturgeschichte","uri":"http://purl.org/lobid/rpb#n732000"}
+{"prefLabel":"Kulturleben","uri":"http://purl.org/lobid/rpb#n733000"}
+{"prefLabel":"Kulturveranstaltung","uri":"http://purl.org/lobid/rpb#n733030"}
+{"prefLabel":"Kulturpreis","uri":"http://purl.org/lobid/rpb#n733050"}
+{"prefLabel":"Kulturverein","uri":"http://purl.org/lobid/rpb#n733070"}
+{"prefLabel":"Feier. Fest","uri":"http://purl.org/lobid/rpb#n734000"}
+{"prefLabel":"Freizeit und Erholung","uri":"http://purl.org/lobid/rpb#n735000"}
+{"prefLabel":"Freizeiteinrichtung","uri":"http://purl.org/lobid/rpb#n735020"}
+{"prefLabel":"Freizeitgestaltung","uri":"http://purl.org/lobid/rpb#n735040"}
+{"prefLabel":"Verein","uri":"http://purl.org/lobid/rpb#n735090"}
+{"prefLabel":"Sport und Spiel","uri":"http://purl.org/lobid/rpb#n736000"}
+{"prefLabel":"Sportart","uri":"http://purl.org/lobid/rpb#n736030"}
+{"prefLabel":"Sportverein","uri":"http://purl.org/lobid/rpb#n736050"}
+{"prefLabel":"Sportlerin. Sportler","uri":"http://purl.org/lobid/rpb#n736080"}
+{"prefLabel":"Sprache","uri":"http://purl.org/lobid/rpb#n740000"}
+{"prefLabel":"Sprache allgemein","uri":"http://purl.org/lobid/rpb#n740100"}
+{"prefLabel":"Sprache / Geschichte","uri":"http://purl.org/lobid/rpb#n742000"}
+{"prefLabel":"Grammatik","uri":"http://purl.org/lobid/rpb#n743000"}
+{"prefLabel":"Mundart","uri":"http://purl.org/lobid/rpb#n744000"}
+{"prefLabel":"Sprachgeographie","uri":"http://purl.org/lobid/rpb#n745000"}
+{"prefLabel":"Namenkunde","uri":"http://purl.org/lobid/rpb#n746000"}
+{"prefLabel":"Personenname","uri":"http://purl.org/lobid/rpb#n746020"}
+{"prefLabel":"Hausname. Hofname","uri":"http://purl.org/lobid/rpb#n746030"}
+{"prefLabel":"Hausname","uri":"http://purl.org/lobid/rpb#n746032"}
+{"prefLabel":"Hofname","uri":"http://purl.org/lobid/rpb#n746034"}
+{"prefLabel":"Geographischer Name","uri":"http://purl.org/lobid/rpb#n746040"}
+{"prefLabel":"Ortsname","uri":"http://purl.org/lobid/rpb#n746042"}
+{"prefLabel":"Straßenname","uri":"http://purl.org/lobid/rpb#n746043"}
+{"prefLabel":"Flurname","uri":"http://purl.org/lobid/rpb#n746044"}
+{"prefLabel":"Bergname","uri":"http://purl.org/lobid/rpb#n746045"}
+{"prefLabel":"Gewässername","uri":"http://purl.org/lobid/rpb#n746046"}
+{"prefLabel":"Tiername","uri":"http://purl.org/lobid/rpb#n746050"}
+{"prefLabel":"Pflanzenname","uri":"http://purl.org/lobid/rpb#n746060"}
+{"prefLabel":"Soziolinguistik","uri":"http://purl.org/lobid/rpb#n747000"}
+{"prefLabel":"Umgangssprache","uri":"http://purl.org/lobid/rpb#n747010"}
+{"prefLabel":"Geheimsprache","uri":"http://purl.org/lobid/rpb#n747020"}
+{"prefLabel":"Fachsprache","uri":"http://purl.org/lobid/rpb#n747030"}
+{"prefLabel":"Spracherwerb","uri":"http://purl.org/lobid/rpb#n747040"}
+{"prefLabel":"Sprachunterricht","uri":"http://purl.org/lobid/rpb#n747050"}
+{"prefLabel":"Sprachpflege","uri":"http://purl.org/lobid/rpb#n747060"}
+{"prefLabel":"Literatur","uri":"http://purl.org/lobid/rpb#n760000"}
+{"prefLabel":"Literatur allgemein","uri":"http://purl.org/lobid/rpb#n760100"}
+{"prefLabel":"Literaturwissenschaft","uri":"http://purl.org/lobid/rpb#n761000"}
+{"prefLabel":"Literaturgeographie","uri":"http://purl.org/lobid/rpb#n761020"}
+{"prefLabel":"Stoff / Literatur. Motiv / Literatur","uri":"http://purl.org/lobid/rpb#n761050"}
+{"prefLabel":"Literatur / Geschichte","uri":"http://purl.org/lobid/rpb#n762000"}
+{"prefLabel":"Literatursoziologie","uri":"http://purl.org/lobid/rpb#n766000"}
+{"prefLabel":"Leserin. Leser","uri":"http://purl.org/lobid/rpb#n766030"}
+{"prefLabel":"Literaturförderung","uri":"http://purl.org/lobid/rpb#n766050"}
+{"prefLabel":"Literaturausstellung","uri":"http://purl.org/lobid/rpb#n766060"}
+{"prefLabel":"Literarischer Text","uri":"http://purl.org/lobid/rpb#n767000"}
+{"prefLabel":"Anthologie","uri":"http://purl.org/lobid/rpb#n767040"}
+{"prefLabel":"Schriftstellerin. Schriftsteller","uri":"http://purl.org/lobid/rpb#n768000"}
+{"prefLabel":"Schriftstellerin. Schriftsteller / Primärliteratur","uri":"http://purl.org/lobid/rpb#n768010"}
+{"prefLabel":"Schriftstellerin. Schriftsteller / Sekundärliteratur","uri":"http://purl.org/lobid/rpb#n768030"}
+{"prefLabel":"Literaturgattung","uri":"http://purl.org/lobid/rpb#n769000"}
+{"prefLabel":"Lyrik","uri":"http://purl.org/lobid/rpb#n769020"}
+{"prefLabel":"Drama","uri":"http://purl.org/lobid/rpb#n769030"}
+{"prefLabel":"Epik","uri":"http://purl.org/lobid/rpb#n769040"}
+{"prefLabel":"Kurzform","uri":"http://purl.org/lobid/rpb#n769050"}
+{"prefLabel":"Bildung. Erziehung","uri":"http://purl.org/lobid/rpb#n780000"}
+{"prefLabel":"Bildung. Erziehung allgemein","uri":"http://purl.org/lobid/rpb#n780100"}
+{"prefLabel":"Bildungspolitik","uri":"http://purl.org/lobid/rpb#n781000"}
+{"prefLabel":"Ausbildungsförderung","uri":"http://purl.org/lobid/rpb#n781040"}
+{"prefLabel":"Erziehung","uri":"http://purl.org/lobid/rpb#n782000"}
+{"prefLabel":"Vorschulerziehung","uri":"http://purl.org/lobid/rpb#n782500"}
+{"prefLabel":"Schule / Geschichte","uri":"http://purl.org/lobid/rpb#n783000"}
+{"prefLabel":"Allgemein bildende Schule","uri":"http://purl.org/lobid/rpb#n784000"}
+{"prefLabel":"Schulpolitik","uri":"http://purl.org/lobid/rpb#n784010"}
+{"prefLabel":"Schulreform","uri":"http://purl.org/lobid/rpb#n784012"}
+{"prefLabel":"Schulversuch","uri":"http://purl.org/lobid/rpb#n784014"}
+{"prefLabel":"Privatschule","uri":"http://purl.org/lobid/rpb#n784016"}
+{"prefLabel":"Schulrecht","uri":"http://purl.org/lobid/rpb#n784020"}
+{"prefLabel":"Elternarbeit","uri":"http://purl.org/lobid/rpb#n784025"}
+{"prefLabel":"Schulverwaltung","uri":"http://purl.org/lobid/rpb#n784030"}
+{"prefLabel":"Schulbau","uri":"http://purl.org/lobid/rpb#n784035"}
+{"prefLabel":"Schulgliederung","uri":"http://purl.org/lobid/rpb#n784040"}
+{"prefLabel":"Grundschule","uri":"http://purl.org/lobid/rpb#n784041"}
+{"prefLabel":"Hauptschule","uri":"http://purl.org/lobid/rpb#n784042"}
+{"prefLabel":"Realschule","uri":"http://purl.org/lobid/rpb#n784043"}
+{"prefLabel":"Realschule Plus","uri":"http://purl.org/lobid/rpb#n784033"}
+{"prefLabel":"Gymnasium","uri":"http://purl.org/lobid/rpb#n784044"}
+{"prefLabel":"Gesamtschule","uri":"http://purl.org/lobid/rpb#n784045"}
+{"prefLabel":"Kollegschule","uri":"http://purl.org/lobid/rpb#n784046"}
+{"prefLabel":"Sonderschule","uri":"http://purl.org/lobid/rpb#n784047"}
+{"prefLabel":"Regionale Schule","uri":"http://purl.org/lobid/rpb#n784048"}
+{"prefLabel":"Duale Oberschule","uri":"http://purl.org/lobid/rpb#n784049"}
+{"prefLabel":"Schulstufe","uri":"http://purl.org/lobid/rpb#n784050"}
+{"prefLabel":"Primarstufe","uri":"http://purl.org/lobid/rpb#n784052"}
+{"prefLabel":"Sekundarstufe 1","uri":"http://purl.org/lobid/rpb#n784053"}
+{"prefLabel":"Sekundarstufe 2","uri":"http://purl.org/lobid/rpb#n784054"}
+{"prefLabel":"Lehrerin. Lehrer","uri":"http://purl.org/lobid/rpb#n784060"}
+{"prefLabel":"Lehrerbildung","uri":"http://purl.org/lobid/rpb#n784062"}
+{"prefLabel":"Lehrerfortbildung","uri":"http://purl.org/lobid/rpb#n784064"}
+{"prefLabel":"Lehrerin. Lehrer / Besoldung","uri":"http://purl.org/lobid/rpb#n784066"}
+{"prefLabel":"Schülerin. Schüler","uri":"http://purl.org/lobid/rpb#n784070"}
+{"prefLabel":"Schülermitverwaltung","uri":"http://purl.org/lobid/rpb#n784072"}
+{"prefLabel":"Schülertransport","uri":"http://purl.org/lobid/rpb#n784074"}
+{"prefLabel":"Schulverpflegung","uri":"http://purl.org/lobid/rpb#n784076"}
+{"prefLabel":"Schüleraustausch","uri":"http://purl.org/lobid/rpb#n784078"}
+{"prefLabel":"Unterricht","uri":"http://purl.org/lobid/rpb#n784080"}
+{"prefLabel":"Schulleben","uri":"http://purl.org/lobid/rpb#n784090"}
+{"prefLabel":"Berufsbildende Schule","uri":"http://purl.org/lobid/rpb#n785000"}
+{"prefLabel":"Berufsschule","uri":"http://purl.org/lobid/rpb#n785020"}
+{"prefLabel":"Berufsfachschule","uri":"http://purl.org/lobid/rpb#n785030"}
+{"prefLabel":"Berufsaufbauschule","uri":"http://purl.org/lobid/rpb#n785040"}
+{"prefLabel":"Fachoberschule","uri":"http://purl.org/lobid/rpb#n785050"}
+{"prefLabel":"Berufliches Gymnasium","uri":"http://purl.org/lobid/rpb#n785060"}
+{"prefLabel":"Fachschule","uri":"http://purl.org/lobid/rpb#n785070"}
+{"prefLabel":"Nichtstaatliche Berufsschule","uri":"http://purl.org/lobid/rpb#n785080"}
+{"prefLabel":"Berufsausbildung","uri":"http://purl.org/lobid/rpb#n785500"}
+{"prefLabel":"Außerschulische Bildung","uri":"http://purl.org/lobid/rpb#n786000"}
+{"prefLabel":"Hochschule. Wissenschaft","uri":"http://purl.org/lobid/rpb#n790000"}
+{"prefLabel":"Hochschule. Wissenschaft allgemein","uri":"http://purl.org/lobid/rpb#n790100"}
+{"prefLabel":"Hochschulrecht","uri":"http://purl.org/lobid/rpb#n791000"}
+{"prefLabel":"Hochschulpolitik","uri":"http://purl.org/lobid/rpb#n792000"}
+{"prefLabel":"Hochschule","uri":"http://purl.org/lobid/rpb#n794000"}
+{"prefLabel":"Einzelne Hochschule","uri":"http://purl.org/lobid/rpb#n794010"}
+{"prefLabel":"Fachhochschule","uri":"http://purl.org/lobid/rpb#n796000"}
+{"prefLabel":"Hochschullehrerin. Hochschullehrer. Wissenschaft","uri":"http://purl.org/lobid/rpb#n797000"}
+{"prefLabel":"Studentin. Student","uri":"http://purl.org/lobid/rpb#n798000"}
+{"prefLabel":"Außeruniversitäre Forschung","uri":"http://purl.org/lobid/rpb#n798200"}
+{"prefLabel":"Wissenschaftsförderung","uri":"http://purl.org/lobid/rpb#n799000"}
+{"prefLabel":"Wissenschaftliche Gesellschaft","uri":"http://purl.org/lobid/rpb#n799200"}
+{"prefLabel":"Darstellende Kunst","uri":"http://purl.org/lobid/rpb#n800000"}
+{"prefLabel":"Darstellende Kunst allgemein","uri":"http://purl.org/lobid/rpb#n800100"}
+{"prefLabel":"Theater","uri":"http://purl.org/lobid/rpb#n802000"}
+{"prefLabel":"Theater / Geschichte","uri":"http://purl.org/lobid/rpb#n802020"}
+{"prefLabel":"Volksschauspiel","uri":"http://purl.org/lobid/rpb#n802030"}
+{"prefLabel":"Laienspiel","uri":"http://purl.org/lobid/rpb#n802040"}
+{"prefLabel":"Kindertheater. Jugendtheater","uri":"http://purl.org/lobid/rpb#n802050"}
+{"prefLabel":"Einzelne Theater","uri":"http://purl.org/lobid/rpb#n802060"}
+{"prefLabel":"Inszenierung","uri":"http://purl.org/lobid/rpb#n802070"}
+{"prefLabel":"Schauspielerin. Schauspieler","uri":"http://purl.org/lobid/rpb#n802080"}
+{"prefLabel":"Ballett","uri":"http://purl.org/lobid/rpb#n803000"}
+{"prefLabel":"Film","uri":"http://purl.org/lobid/rpb#n804000"}
+{"prefLabel":"Filmtheater","uri":"http://purl.org/lobid/rpb#n804020"}
+{"prefLabel":"Kleinkunst","uri":"http://purl.org/lobid/rpb#n806000"}
+{"prefLabel":"Kabarett","uri":"http://purl.org/lobid/rpb#n806020"}
+{"prefLabel":"Musik","uri":"http://purl.org/lobid/rpb#n820000"}
+{"prefLabel":"Musik allgemein","uri":"http://purl.org/lobid/rpb#n820100"}
+{"prefLabel":"Musikwissenschaft","uri":"http://purl.org/lobid/rpb#n821000"}
+{"prefLabel":"Musikerin. Musiker / Ausbildung","uri":"http://purl.org/lobid/rpb#n822000"}
+{"prefLabel":"Musikförderung","uri":"http://purl.org/lobid/rpb#n822400"}
+{"prefLabel":"Musikpreis","uri":"http://purl.org/lobid/rpb#n822500"}
+{"prefLabel":"Musik / Geschichte","uri":"http://purl.org/lobid/rpb#n823000"}
+{"prefLabel":"Musikerin. Musiker","uri":"http://purl.org/lobid/rpb#n824000"}
+{"prefLabel":"Instrumentalmusikerin. Instrumentalmusiker","uri":"http://purl.org/lobid/rpb#n824020"}
+{"prefLabel":"Komponistin. Komponist","uri":"http://purl.org/lobid/rpb#n824040"}
+{"prefLabel":"Dirigentin. Dirigent","uri":"http://purl.org/lobid/rpb#n824060"}
+{"prefLabel":"Sängerin. Sänger","uri":"http://purl.org/lobid/rpb#n824080"}
+{"prefLabel":"Chor","uri":"http://purl.org/lobid/rpb#n824500"}
+{"prefLabel":"Orchester","uri":"http://purl.org/lobid/rpb#n825000"}
+{"prefLabel":"Konzert. Musikveranstaltung","uri":"http://purl.org/lobid/rpb#n826000"}
+{"prefLabel":"Einzelne Aufführungen","uri":"http://purl.org/lobid/rpb#n826020"}
+{"prefLabel":"Kirchenmusik","uri":"http://purl.org/lobid/rpb#n827000"}
+{"prefLabel":"Kirchenmusik / Aufführung","uri":"http://purl.org/lobid/rpb#n827010"}
+{"prefLabel":"Musikinstrument","uri":"http://purl.org/lobid/rpb#n828000"}
+{"prefLabel":"Laienmusik","uri":"http://purl.org/lobid/rpb#n829000"}
+{"prefLabel":"Kunst. Architektur","uri":"http://purl.org/lobid/rpb#n840000"}
+{"prefLabel":"Kunst. Architektur allgemein","uri":"http://purl.org/lobid/rpb#n840100"}
+{"prefLabel":"Kunst","uri":"http://purl.org/lobid/rpb#n841000"}
+{"prefLabel":"Kunststudium","uri":"http://purl.org/lobid/rpb#n841020"}
+{"prefLabel":"Kunstmuseum. Kunstsammlung","uri":"http://purl.org/lobid/rpb#n841040"}
+{"prefLabel":"Kunstgalerie","uri":"http://purl.org/lobid/rpb#n841050"}
+{"prefLabel":"Kunstausstellung","uri":"http://purl.org/lobid/rpb#n841060"}
+{"prefLabel":"Künstlerin.Künstler","uri":"http://purl.org/lobid/rpb#n841070"}
+{"prefLabel":"Bildhauerin. Bildhauer","uri":"http://purl.org/lobid/rpb#n841072"}
+{"prefLabel":"Malerin. Maler","uri":"http://purl.org/lobid/rpb#n841074"}
+{"prefLabel":"Zeichnerin. Zeichner","uri":"http://purl.org/lobid/rpb#n841076"}
+{"prefLabel":"Grafikerin. Grafiker","uri":"http://purl.org/lobid/rpb#n841078"}
+{"prefLabel":"Fotografin. Fotograf","uri":"http://purl.org/lobid/rpb#n841079"}
+{"prefLabel":"Künstlervereinigung","uri":"http://purl.org/lobid/rpb#n841080"}
+{"prefLabel":"Kunstförderung","uri":"http://purl.org/lobid/rpb#n841090"}
+{"prefLabel":"Kunst / Geschichte","uri":"http://purl.org/lobid/rpb#n842000"}
+{"prefLabel":"Architektur","uri":"http://purl.org/lobid/rpb#n843000"}
+{"prefLabel":"Baukonstruktion. Bautechnik","uri":"http://purl.org/lobid/rpb#n843010"}
+{"prefLabel":"Öffentliches Gebäude","uri":"http://purl.org/lobid/rpb#n843020"}
+{"prefLabel":"Büro-, Geschäfts- und Industriebauten","uri":"http://purl.org/lobid/rpb#n843040"}
+{"prefLabel":"Bürohaus","uri":"http://purl.org/lobid/rpb#n843042"}
+{"prefLabel":"Geschäftshaus","uri":"http://purl.org/lobid/rpb#n843044"}
+{"prefLabel":"Industriebau","uri":"http://purl.org/lobid/rpb#n843046"}
+{"prefLabel":"Bauernhaus","uri":"http://purl.org/lobid/rpb#n843050"}
+{"prefLabel":"Wohnhaus","uri":"http://purl.org/lobid/rpb#n843060"}
+{"prefLabel":"Architektin. Architekt","uri":"http://purl.org/lobid/rpb#n843090"}
+{"prefLabel":"Baudenkmal. Kunstwerk","uri":"http://purl.org/lobid/rpb#n844000"}
+{"prefLabel":"Kunst / Inventar","uri":"http://purl.org/lobid/rpb#n844010"}
+{"prefLabel":"Baustil","uri":"http://purl.org/lobid/rpb#n844020"}
+{"prefLabel":"Sakralbau","uri":"http://purl.org/lobid/rpb#n844030"}
+{"prefLabel":"Burg. Schloss","uri":"http://purl.org/lobid/rpb#n844040"}
+{"prefLabel":"Profanarchitektur","uri":"http://purl.org/lobid/rpb#n844050"}
+{"prefLabel":"Park. Garten","uri":"http://purl.org/lobid/rpb#n844060"}
+{"prefLabel":"Brunnen","uri":"http://purl.org/lobid/rpb#n844070"}
+{"prefLabel":"Denkmal","uri":"http://purl.org/lobid/rpb#n844080"}
+{"prefLabel":"Denkmalpflege. Denkmalschutz","uri":"http://purl.org/lobid/rpb#n844200"}
+{"prefLabel":"Städtebau","uri":"http://purl.org/lobid/rpb#n844500"}
+{"prefLabel":"Plastik","uri":"http://purl.org/lobid/rpb#n845000"}
+{"prefLabel":"Plastik / Einzelne Objekte","uri":"http://purl.org/lobid/rpb#n845020"}
+{"prefLabel":"Malerei","uri":"http://purl.org/lobid/rpb#n846000"}
+{"prefLabel":"Malerei / Einzelne Objekte","uri":"http://purl.org/lobid/rpb#n846020"}
+{"prefLabel":"Zeichnung","uri":"http://purl.org/lobid/rpb#n847000"}
+{"prefLabel":"Druckgrafik","uri":"http://purl.org/lobid/rpb#n847500"}
+{"prefLabel":"Fotografie","uri":"http://purl.org/lobid/rpb#n848000"}
+{"prefLabel":"Kunsthandwerk","uri":"http://purl.org/lobid/rpb#n849000"}
+{"prefLabel":"Goldschmiedekunst. Silberschmiedekunst. Schmuck","uri":"http://purl.org/lobid/rpb#n849020"}
+{"prefLabel":"Eisenguss","uri":"http://purl.org/lobid/rpb#n849030"}
+{"prefLabel":"Bronzeguss","uri":"http://purl.org/lobid/rpb#n849032"}
+{"prefLabel":"Zinnguss","uri":"http://purl.org/lobid/rpb#n849034"}
+{"prefLabel":"Keramik","uri":"http://purl.org/lobid/rpb#n849040"}
+{"prefLabel":"Porzellan. Glas. Fayence","uri":"http://purl.org/lobid/rpb#n849050"}
+{"prefLabel":"Porzellan","uri":"http://purl.org/lobid/rpb#n849052"}
+{"prefLabel":"Fayence","uri":"http://purl.org/lobid/rpb#n849054"}
+{"prefLabel":"Glas","uri":"http://purl.org/lobid/rpb#n849056"}
+{"prefLabel":"Hausrat","uri":"http://purl.org/lobid/rpb#n849060"}
+{"prefLabel":"Möbel","uri":"http://purl.org/lobid/rpb#n849070"}
+{"prefLabel":"Textilien. Teppich. Tapete","uri":"http://purl.org/lobid/rpb#n849080"}
+{"prefLabel":"Textilien","uri":"http://purl.org/lobid/rpb#n849082"}
+{"prefLabel":"Teppich","uri":"http://purl.org/lobid/rpb#n849084"}
+{"prefLabel":"Tapete","uri":"http://purl.org/lobid/rpb#n849086"}
+{"prefLabel":"Uhr. Musikinstrument","uri":"http://purl.org/lobid/rpb#n849090"}
+{"prefLabel":"Buch. Bibliothek","uri":"http://purl.org/lobid/rpb#n860000"}
+{"prefLabel":"Buch. Bibliothek allgemein","uri":"http://purl.org/lobid/rpb#n860100"}
+{"prefLabel":"Buch","uri":"http://purl.org/lobid/rpb#n861000"}
+{"prefLabel":"Schrift / Geschichte","uri":"http://purl.org/lobid/rpb#n861010"}
+{"prefLabel":"Handschrift","uri":"http://purl.org/lobid/rpb#n861020"}
+{"prefLabel":"Buch / Geschichte","uri":"http://purl.org/lobid/rpb#n861030"}
+{"prefLabel":"Buchdruck","uri":"http://purl.org/lobid/rpb#n861040"}
+{"prefLabel":"Verlag","uri":"http://purl.org/lobid/rpb#n861050"}
+{"prefLabel":"Urheberrecht","uri":"http://purl.org/lobid/rpb#n861052"}
+{"prefLabel":"Verlagsrecht","uri":"http://purl.org/lobid/rpb#n861054"}
+{"prefLabel":"Verlegerin. Verleger","uri":"http://purl.org/lobid/rpb#n861056"}
+{"prefLabel":"Buchhandel","uri":"http://purl.org/lobid/rpb#n861060"}
+{"prefLabel":"Bibliothek","uri":"http://purl.org/lobid/rpb#n865000"}
+{"prefLabel":"Bibliotheksrecht","uri":"http://purl.org/lobid/rpb#n865010"}
+{"prefLabel":"Bibliothek / Geschichte","uri":"http://purl.org/lobid/rpb#n865020"}
+{"prefLabel":"Bibliotheksplanung","uri":"http://purl.org/lobid/rpb#n865030"}
+{"prefLabel":"Wissenschaftliche Bibliothek","uri":"http://purl.org/lobid/rpb#n865040"}
+{"prefLabel":"Öffentliche Bibliothek","uri":"http://purl.org/lobid/rpb#n865050"}
+{"prefLabel":"Stadtbibliothek","uri":"http://purl.org/lobid/rpb#n865052"}
+{"prefLabel":"Kommunale Bibliothek","uri":"http://purl.org/lobid/rpb#n865054"}
+{"prefLabel":"Spezialbibliothek","uri":"http://purl.org/lobid/rpb#n865060"}
+{"prefLabel":"Schulbibliothek","uri":"http://purl.org/lobid/rpb#n865070"}
+{"prefLabel":"Privatbibliothek","uri":"http://purl.org/lobid/rpb#n865080"}
+{"prefLabel":"Bibliothekarin. Bibliothekar","uri":"http://purl.org/lobid/rpb#n865090"}
+{"prefLabel":"Publizistik. Information. Dokumentation","uri":"http://purl.org/lobid/rpb#n880000"}
+{"prefLabel":"Publizistik. Information. Dokumentation allgemein","uri":"http://purl.org/lobid/rpb#n880100"}
+{"prefLabel":"Publizistik","uri":"http://purl.org/lobid/rpb#n882000"}
+{"prefLabel":"Presse","uri":"http://purl.org/lobid/rpb#n882020"}
+{"prefLabel":"Presserecht","uri":"http://purl.org/lobid/rpb#n882022"}
+{"prefLabel":"Zeitung. Zeitschrift","uri":"http://purl.org/lobid/rpb#n882026"}
+{"prefLabel":"Audiovisuelle Medien","uri":"http://purl.org/lobid/rpb#n882030"}
+{"prefLabel":"Hörfunk","uri":"http://purl.org/lobid/rpb#n882040"}
+{"prefLabel":"Fernsehen","uri":"http://purl.org/lobid/rpb#n882060"}
+{"prefLabel":"Journalistin. Journalist","uri":"http://purl.org/lobid/rpb#n882090"}
+{"prefLabel":"Information und Dokumentation","uri":"http://purl.org/lobid/rpb#n884000"}
+{"prefLabel":"Internet","uri":"http://purl.org/lobid/rpb#n884020"}
