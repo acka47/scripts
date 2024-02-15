@@ -1,0 +1,232 @@
+@prefix :		<https://rpb.lobid.org/spatial#> .
+@prefix dct:		<http://purl.org/dc/terms/> .
+@prefix skos:	<http://www.w3.org/2004/02/skos/core#> .
+@prefix vann:	<http://purl.org/vocab/vann/> .
+@prefix wd:		<http://www.wikidata.org/entity/> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+
+:n10.10p a	skos:Concept ;
+	skos:prefLabel	 "Genossenschaft. Gemeinwirtschaft. Alternative Wirtschaft"@de .
+
+:n10.11p a	skos:Concept ;
+	skos:prefLabel	 "Betriebswirtschaft"@de .
+
+:n10.12p a	skos:Concept ;
+	skos:prefLabel	 "Industrie. Handwerk"@de .
+
+:n10.13p a	skos:Concept ;
+	skos:prefLabel	 "Handel. Dienstleistung"@de .
+
+:n10.14p a	skos:Concept ;
+	skos:prefLabel	 "Versicherung"@de .
+
+:n10.15p a	skos:Concept ;
+	skos:prefLabel	 "Werbewirtschaft. Öffentlichkeitsarbeit"@de .
+
+:n10.1p a	skos:Concept ;
+	skos:prefLabel	 "Wirtschaftsgeschichte bis 1900"@de .
+
+:n10.2dp a	skos:Concept ;
+	skos:prefLabel	 "Volkswirtschaft. Wirtschaftswissenschaften"@de .
+
+:n10.2ep a	skos:Concept ;
+	skos:prefLabel	 "Außenwirtschaft"@de .
+
+:n10.3p a	skos:Concept ;
+	skos:prefLabel	 "Öffentliche Aufgaben. Öffentliche Wirtschaft. Energie- und Rohstoffwirtschaft. Gesundheitswesen"@de .
+
+:n10.4p a	skos:Concept ;
+	skos:prefLabel	 "Wirtschaftspolitik"@de .
+
+:n10.5p a	skos:Concept ;
+	skos:prefLabel	 "Finanzwirtschaft"@de .
+
+:n10.6p a	skos:Concept ;
+	skos:prefLabel	 "Nachrichtenwesen. Verkehrswesen. Fremdenverkehr, Hotel- und Gaststättengewerbe"@de .
+
+:n10.7p a	skos:Concept ;
+	skos:prefLabel	 "Umweltschutz. Raumordnung. Stadtplanung. Landschaftsgestaltung"@de .
+
+:n10.8p a	skos:Concept ;
+	skos:prefLabel	 "Bau"@de .
+
+:n10.9p a	skos:Concept ;
+	skos:prefLabel	 "Geld, Bank, Börse"@de .
+
+:n11.2p a	skos:Concept ;
+	skos:prefLabel	 "Sprachwissenschaft"@de .
+
+:n11.3p a	skos:Concept ;
+	skos:prefLabel	 "Lexikologie. Namenkunde. Fachsprache"@de .
+
+:n12.1p a	skos:Concept ;
+	skos:prefLabel	 "Literaturwissenschaft"@de .
+
+:n12.2p a	skos:Concept ;
+	skos:prefLabel	 "Schreiben. Dichtung"@de .
+
+:n13.1bp a	skos:Concept ;
+	skos:prefLabel	 "Kunst. Kunstgeschichte"@de .
+
+:n13.2p a	skos:Concept ;
+	skos:prefLabel	 "Plastik"@de .
+
+:n13.4p a	skos:Concept ;
+	skos:prefLabel	 "Malerei. Zeichnung. Graphik"@de .
+
+:n13.5p a	skos:Concept ;
+	skos:prefLabel	 "Fotografie"@de .
+
+:n13.6p a	skos:Concept ;
+	skos:prefLabel	 "Kunsthandwerk"@de .
+
+:n13.7p a	skos:Concept ;
+	skos:prefLabel	 "Gegenwartskunst"@de .
+
+:n14.4p a	skos:Concept ;
+	skos:prefLabel	 "Musik. Musikwissenschaft"@de .
+
+:n15.1p a	skos:Concept ;
+	skos:prefLabel	 "Theater. Tanz"@de .
+
+:n15.2p a	skos:Concept ;
+	skos:prefLabel	 "Kabarett. Zirkus. Varieté"@de .
+
+:n15.3p a	skos:Concept ;
+	skos:prefLabel	 "Film"@de .
+
+:n15.4p a	skos:Concept ;
+	skos:prefLabel	 "Rundfunk. Neue Medien"@de .
+
+:n16.1p a	skos:Concept ;
+	skos:prefLabel	 "Geschichtswissenschaft"@de .
+
+:n16.5p a	skos:Concept ;
+	skos:prefLabel	 "Politiker und historische Persönlichkeiten"@de .
+
+:n17.4p a	skos:Concept ;
+	skos:prefLabel	 "Volkskunde. Brauchtum. Karneval"@de .
+
+:n18p a	skos:Concept ;
+	skos:prefLabel	 "Naturwissenschaft allgemein"@de .
+
+:n19.1dp a	skos:Concept ;
+	skos:prefLabel	 "Geographie, Heimat- und Länderkunde"@de .
+
+:n19.2p a	skos:Concept ;
+	skos:prefLabel	 "Geodäsie. Kartographie"@de .
+
+:n19.3p a	skos:Concept ;
+	skos:prefLabel	 "Hydrologie"@de .
+
+:n19.4p a	skos:Concept ;
+	skos:prefLabel	 "Geologie"@de .
+
+:n19.5p a	skos:Concept ;
+	skos:prefLabel	 "Meteorologie"@de .
+
+:n20p a	skos:Concept ;
+	skos:prefLabel	 "Astronomie"@de .
+
+:n21.5p a	skos:Concept ;
+	skos:prefLabel	 "Physik"@de .
+
+:n22.5p a	skos:Concept ;
+	skos:prefLabel	 "Chemie"@de .
+
+:n23.4p a	skos:Concept ;
+	skos:prefLabel	 "Biologie"@de .
+
+:n24.3p a	skos:Concept ;
+	skos:prefLabel	 "Botanik"@de .
+
+:n25.3p a	skos:Concept ;
+	skos:prefLabel	 "Zoologie"@de .
+
+:n26p a	skos:Concept ;
+	skos:prefLabel	 "Anthropologie"@de .
+
+:n27.20p a	skos:Concept ;
+	skos:prefLabel	 "Medizin. Tiermedizin"@de .
+
+:n28p a	skos:Concept ;
+	skos:prefLabel	 "Mathematik"@de .
+
+:n29p a	skos:Concept ;
+	skos:prefLabel	 "Stochastik"@de .
+
+:n2.1p a	skos:Concept ;
+	skos:prefLabel	 "Schrift. Handschrift"@de .
+
+:n2.2p a	skos:Concept ;
+	skos:prefLabel	 "Buch. Buchhandel"@de .
+
+:n2.3p a	skos:Concept ;
+	skos:prefLabel	 "Presse"@de .
+
+:n30p a	skos:Concept ;
+	skos:prefLabel	 "Informatik"@de .
+
+:n31.16p a	skos:Concept ;
+	skos:prefLabel	 "Technik allgemein"@de .
+
+:n31.3p a	skos:Concept ;
+	skos:prefLabel	 "Architektur. Bautechnik"@de .
+
+:n32.10p a	skos:Concept ;
+	skos:prefLabel	 "Landwirtschaft"@de .
+
+:n33.3p a	skos:Concept ;
+	skos:prefLabel	 "Hauswirtschaft. Mode"@de .
+
+:n34.3p a	skos:Concept ;
+	skos:prefLabel	 "Sport"@de .
+
+:n35p a	skos:Concept ;
+	skos:prefLabel	 "Spiel. Unterhaltung"@de .
+
+:n36p a	skos:Concept ;
+	skos:prefLabel	 "Basteln. Handarbeiten"@de .
+
+:n3.1p a	skos:Concept ;
+	skos:prefLabel	 "Religionswissenschaft und nichtchristliche Religionen"@de .
+
+:n3.6p a	skos:Concept ;
+	skos:prefLabel	 "Kirche"@de .
+
+:n4.7p a	skos:Concept ;
+	skos:prefLabel	 "Philosophie"@de .
+
+:n5.5p a	skos:Concept ;
+	skos:prefLabel	 "Psychologie"@de .
+
+:n5.7p a	skos:Concept ;
+	skos:prefLabel	 "Parapsychologie"@de .
+
+:n6.1p a	skos:Concept ;
+	skos:prefLabel	 "Kultur"@de .
+
+:n6.4p a	skos:Concept ;
+	skos:prefLabel	 "Bildung. Erziehung"@de .
+
+:n6.7p a	skos:Concept ;
+	skos:prefLabel	 "Information und Dokumentation"@de .
+
+:n6.8p a	skos:Concept ;
+	skos:prefLabel	 "Archiv. Museum"@de .
+
+:n7.14p a	skos:Concept ;
+	skos:prefLabel	 "Recht"@de .
+
+:n7.15p a	skos:Concept ;
+	skos:prefLabel	 "Öffentliche Verwaltung"@de .
+
+:n8.1p a	skos:Concept ;
+	skos:prefLabel	 "Politikwissenschaft"@de .
+
+:n8.4p a	skos:Concept ;
+	skos:prefLabel	 "Militär"@de .
+
+:n9.5p a	skos:Concept ;
+	skos:prefLabel	 "Soziologie. Gesellschaft"@de .
+
