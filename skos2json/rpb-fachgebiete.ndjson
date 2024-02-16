@@ -1,0 +1,75 @@
+{"prefLabel":"Genossenschaft. Gemeinwirtschaft. Alternative Wirtschaft","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.10p"}
+{"prefLabel":"Betriebswirtschaft","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.11p"}
+{"prefLabel":"Industrie. Handwerk","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.12p"}
+{"prefLabel":"Handel. Dienstleistung","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.13p"}
+{"prefLabel":"Versicherung","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.14p"}
+{"prefLabel":"Werbewirtschaft. Öffentlichkeitsarbeit","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.15p"}
+{"prefLabel":"Wirtschaftsgeschichte bis 1900","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.1p"}
+{"prefLabel":"Volkswirtschaft. Wirtschaftswissenschaften","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.2dp"}
+{"prefLabel":"Außenwirtschaft","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.2ep"}
+{"prefLabel":"Öffentliche Aufgaben. Öffentliche Wirtschaft. Energie- und Rohstoffwirtschaft. Gesundheitswesen","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.3p"}
+{"prefLabel":"Wirtschaftspolitik","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.4p"}
+{"prefLabel":"Finanzwirtschaft","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.5p"}
+{"prefLabel":"Nachrichtenwesen. Verkehrswesen. Fremdenverkehr, Hotel- und Gaststättengewerbe","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.6p"}
+{"prefLabel":"Umweltschutz. Raumordnung. Stadtplanung. Landschaftsgestaltung","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.7p"}
+{"prefLabel":"Bau","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.8p"}
+{"prefLabel":"Geld, Bank, Börse","uri":"https://w3id.org/lobid/rpb-fachgebiete/n10.9p"}
+{"prefLabel":"Sprachwissenschaft","uri":"https://w3id.org/lobid/rpb-fachgebiete/n11.2p"}
+{"prefLabel":"Lexikologie. Namenkunde. Fachsprache","uri":"https://w3id.org/lobid/rpb-fachgebiete/n11.3p"}
+{"prefLabel":"Literaturwissenschaft","uri":"https://w3id.org/lobid/rpb-fachgebiete/n12.1p"}
+{"prefLabel":"Schreiben. Dichtung","uri":"https://w3id.org/lobid/rpb-fachgebiete/n12.2p"}
+{"prefLabel":"Kunst. Kunstgeschichte","uri":"https://w3id.org/lobid/rpb-fachgebiete/n13.1bp"}
+{"prefLabel":"Plastik","uri":"https://w3id.org/lobid/rpb-fachgebiete/n13.2p"}
+{"prefLabel":"Malerei. Zeichnung. Graphik","uri":"https://w3id.org/lobid/rpb-fachgebiete/n13.4p"}
+{"prefLabel":"Fotografie","uri":"https://w3id.org/lobid/rpb-fachgebiete/n13.5p"}
+{"prefLabel":"Kunsthandwerk","uri":"https://w3id.org/lobid/rpb-fachgebiete/n13.6p"}
+{"prefLabel":"Gegenwartskunst","uri":"https://w3id.org/lobid/rpb-fachgebiete/n13.7p"}
+{"prefLabel":"Musik. Musikwissenschaft","uri":"https://w3id.org/lobid/rpb-fachgebiete/n14.4p"}
+{"prefLabel":"Theater. Tanz","uri":"https://w3id.org/lobid/rpb-fachgebiete/n15.1p"}
+{"prefLabel":"Kabarett. Zirkus. Varieté","uri":"https://w3id.org/lobid/rpb-fachgebiete/n15.2p"}
+{"prefLabel":"Film","uri":"https://w3id.org/lobid/rpb-fachgebiete/n15.3p"}
+{"prefLabel":"Rundfunk. Neue Medien","uri":"https://w3id.org/lobid/rpb-fachgebiete/n15.4p"}
+{"prefLabel":"Geschichtswissenschaft","uri":"https://w3id.org/lobid/rpb-fachgebiete/n16.1p"}
+{"prefLabel":"Politiker und historische Persönlichkeiten","uri":"https://w3id.org/lobid/rpb-fachgebiete/n16.5p"}
+{"prefLabel":"Volkskunde. Brauchtum. Karneval","uri":"https://w3id.org/lobid/rpb-fachgebiete/n17.4p"}
+{"prefLabel":"Naturwissenschaft allgemein","uri":"https://w3id.org/lobid/rpb-fachgebiete/n18p"}
+{"prefLabel":"Geographie, Heimat- und Länderkunde","uri":"https://w3id.org/lobid/rpb-fachgebiete/n19.1dp"}
+{"prefLabel":"Geodäsie. Kartographie","uri":"https://w3id.org/lobid/rpb-fachgebiete/n19.2p"}
+{"prefLabel":"Hydrologie","uri":"https://w3id.org/lobid/rpb-fachgebiete/n19.3p"}
+{"prefLabel":"Geologie","uri":"https://w3id.org/lobid/rpb-fachgebiete/n19.4p"}
+{"prefLabel":"Meteorologie","uri":"https://w3id.org/lobid/rpb-fachgebiete/n19.5p"}
+{"prefLabel":"Astronomie","uri":"https://w3id.org/lobid/rpb-fachgebiete/n20p"}
+{"prefLabel":"Physik","uri":"https://w3id.org/lobid/rpb-fachgebiete/n21.5p"}
+{"prefLabel":"Chemie","uri":"https://w3id.org/lobid/rpb-fachgebiete/n22.5p"}
+{"prefLabel":"Biologie","uri":"https://w3id.org/lobid/rpb-fachgebiete/n23.4p"}
+{"prefLabel":"Botanik","uri":"https://w3id.org/lobid/rpb-fachgebiete/n24.3p"}
+{"prefLabel":"Zoologie","uri":"https://w3id.org/lobid/rpb-fachgebiete/n25.3p"}
+{"prefLabel":"Anthropologie","uri":"https://w3id.org/lobid/rpb-fachgebiete/n26p"}
+{"prefLabel":"Medizin. Tiermedizin","uri":"https://w3id.org/lobid/rpb-fachgebiete/n27.20p"}
+{"prefLabel":"Mathematik","uri":"https://w3id.org/lobid/rpb-fachgebiete/n28p"}
+{"prefLabel":"Stochastik","uri":"https://w3id.org/lobid/rpb-fachgebiete/n29p"}
+{"prefLabel":"Schrift. Handschrift","uri":"https://w3id.org/lobid/rpb-fachgebiete/n2.1p"}
+{"prefLabel":"Buch. Buchhandel","uri":"https://w3id.org/lobid/rpb-fachgebiete/n2.2p"}
+{"prefLabel":"Presse","uri":"https://w3id.org/lobid/rpb-fachgebiete/n2.3p"}
+{"prefLabel":"Informatik","uri":"https://w3id.org/lobid/rpb-fachgebiete/n30p"}
+{"prefLabel":"Technik allgemein","uri":"https://w3id.org/lobid/rpb-fachgebiete/n31.16p"}
+{"prefLabel":"Architektur. Bautechnik","uri":"https://w3id.org/lobid/rpb-fachgebiete/n31.3p"}
+{"prefLabel":"Landwirtschaft","uri":"https://w3id.org/lobid/rpb-fachgebiete/n32.10p"}
+{"prefLabel":"Hauswirtschaft. Mode","uri":"https://w3id.org/lobid/rpb-fachgebiete/n33.3p"}
+{"prefLabel":"Sport","uri":"https://w3id.org/lobid/rpb-fachgebiete/n34.3p"}
+{"prefLabel":"Spiel. Unterhaltung","uri":"https://w3id.org/lobid/rpb-fachgebiete/n35p"}
+{"prefLabel":"Basteln. Handarbeiten","uri":"https://w3id.org/lobid/rpb-fachgebiete/n36p"}
+{"prefLabel":"Religionswissenschaft und nichtchristliche Religionen","uri":"https://w3id.org/lobid/rpb-fachgebiete/n3.1p"}
+{"prefLabel":"Kirche","uri":"https://w3id.org/lobid/rpb-fachgebiete/n3.6p"}
+{"prefLabel":"Philosophie","uri":"https://w3id.org/lobid/rpb-fachgebiete/n4.7p"}
+{"prefLabel":"Psychologie","uri":"https://w3id.org/lobid/rpb-fachgebiete/n5.5p"}
+{"prefLabel":"Parapsychologie","uri":"https://w3id.org/lobid/rpb-fachgebiete/n5.7p"}
+{"prefLabel":"Kultur","uri":"https://w3id.org/lobid/rpb-fachgebiete/n6.1p"}
+{"prefLabel":"Bildung. Erziehung","uri":"https://w3id.org/lobid/rpb-fachgebiete/n6.4p"}
+{"prefLabel":"Information und Dokumentation","uri":"https://w3id.org/lobid/rpb-fachgebiete/n6.7p"}
+{"prefLabel":"Archiv. Museum","uri":"https://w3id.org/lobid/rpb-fachgebiete/n6.8p"}
+{"prefLabel":"Recht","uri":"https://w3id.org/lobid/rpb-fachgebiete/n7.14p"}
+{"prefLabel":"Öffentliche Verwaltung","uri":"https://w3id.org/lobid/rpb-fachgebiete/n7.15p"}
+{"prefLabel":"Politikwissenschaft","uri":"https://w3id.org/lobid/rpb-fachgebiete/n8.1p"}
+{"prefLabel":"Militär","uri":"https://w3id.org/lobid/rpb-fachgebiete/n8.4p"}
+{"prefLabel":"Soziologie. Gesellschaft","uri":"https://w3id.org/lobid/rpb-fachgebiete/n9.5p"}
