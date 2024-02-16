@@ -4,7 +4,7 @@ from rdflib import Graph
 g = rdflib.Graph()
 
 # Load file in format ttl
-g.parse("rpb-spatial.ttl", format="ttl")
+g.parse("rpb-fachgebiete.ttl", format="ttl")
 
 # SPARQL query for URI and label of each concept
 qres = g.query(
@@ -18,7 +18,7 @@ qres = g.query(
        }""")
 
 # Write results to file per line
-with open("rpb-spatial.ndjson", "a") as output:
+with open("rpb-fachgebiete.ndjson", "a") as output:
     for row in qres:
         output.write("{\"prefLabel\":\"%s\",\"uri\":\"%s\"}" % row) 
         output.write("\n") # add a new line delimiter to start new line
