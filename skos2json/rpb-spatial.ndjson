@@ -243,7 +243,6 @@
 {"prefLabel":"Neuwagenmühle","uri":"https://rpb.lobid.org/spatial#n141110740105"}
 {"prefLabel":"Am Hochdorfer Weg","uri":"https://rpb.lobid.org/spatial#n338010220101"}
 {"prefLabel":"Stockum","uri":"https://rpb.lobid.org/spatial#n143092980200"}
-{"prefLabel":"Johanneshof","uri":"https://rpb.lobid.org/spatial#n140071340102"}
 {"prefLabel":"Gau-Algesheim, Verbandsgemeinde","uri":"https://rpb.lobid.org/spatial#n33903"}
 {"prefLabel":"Germerstal","uri":"https://rpb.lobid.org/spatial#n340040380106"}
 {"prefLabel":"Heddesheim","uri":"https://rpb.lobid.org/spatial#n133110350100"}
@@ -458,7 +457,6 @@
 {"prefLabel":"Oberweidenbruch","uri":"https://rpb.lobid.org/spatial#n132070370147"}
 {"prefLabel":"Eng","uri":"https://rpb.lobid.org/spatial#n132100480101"}
 {"prefLabel":"Wörrstadt,Stadt","uri":"https://rpb.lobid.org/spatial#n33106073"}
-{"prefLabel":"Althof","uri":"https://rpb.lobid.org/spatial#n3330750250101"}
 {"prefLabel":"Buchholz","uri":"https://rpb.lobid.org/spatial#n131042020303"}
 {"prefLabel":"Heimersheim (Ortsbezirk)","uri":"https://rpb.lobid.org/spatial#n331000030300"}
 {"prefLabel":"Eichenhof","uri":"https://rpb.lobid.org/spatial#n233010840102"}
@@ -519,6 +517,7 @@
 {"prefLabel":"Dierdorf","uri":"https://rpb.lobid.org/spatial#n138030120200"}
 {"prefLabel":"Haus Jugenheim","uri":"https://rpb.lobid.org/spatial#n339060310101"}
 {"prefLabel":"Ritzmühle","uri":"https://rpb.lobid.org/spatial#n143100100104"}
+{"prefLabel":"Althof","uri":"https://rpb.lobid.org/spatial#n333070250101"}
 {"prefLabel":"Scheuern","uri":"https://rpb.lobid.org/spatial#n23205117"}
 {"prefLabel":"Bahnhof Ehrang","uri":"https://rpb.lobid.org/spatial#n211000000303"}
 {"prefLabel":"Haus Kampf","uri":"https://rpb.lobid.org/spatial#n235041410101"}
@@ -1147,6 +1146,7 @@
 {"prefLabel":"Trimbs","uri":"https://rpb.lobid.org/spatial#n13702102"}
 {"prefLabel":"Auf den Heselen","uri":"https://rpb.lobid.org/spatial#n137020860117"}
 {"prefLabel":"Wappenschmiede","uri":"https://rpb.lobid.org/spatial#n340010110101"}
+{"prefLabel":"Forsthaus Ellerspring","uri":"https://rpb.lobid.org/spatial#n140081340101"}
 {"prefLabel":"Gundheimerhof","uri":"https://rpb.lobid.org/spatial#n333030260104"}
 {"prefLabel":"Erlenhof","uri":"https://rpb.lobid.org/spatial#n339060470102"}
 {"prefLabel":"Langenscheiderhof","uri":"https://rpb.lobid.org/spatial#n337010010101"}
@@ -1255,7 +1255,6 @@
 {"prefLabel":"Hof im Biengarten","uri":"https://rpb.lobid.org/spatial#n338010140101"}
 {"prefLabel":"Reifenmühle","uri":"https://rpb.lobid.org/spatial#n141110740106"}
 {"prefLabel":"Oberhonnefeld-Gierend","uri":"https://rpb.lobid.org/spatial#n13809053"}
-{"prefLabel":"Wildburg","uri":"https://rpb.lobid.org/spatial#n140071340103"}
 {"prefLabel":"Bombogen (Ortsbezirk)","uri":"https://rpb.lobid.org/spatial#n231001340100"}
 {"prefLabel":"Elbergrund","uri":"https://rpb.lobid.org/spatial#n132081170100"}
 {"prefLabel":"Grünbühl","uri":"https://rpb.lobid.org/spatial#n340040380107"}
@@ -2199,6 +2198,7 @@
 {"prefLabel":"Hilkhausen (Ortsbezirk)","uri":"https://rpb.lobid.org/spatial#n132101150100"}
 {"prefLabel":"Grube Alexandria","uri":"https://rpb.lobid.org/spatial#n143092420101"}
 {"prefLabel":"Roth","uri":"https://rpb.lobid.org/spatial#n13206096"}
+{"prefLabel":"Johanneshof","uri":"https://rpb.lobid.org/spatial#n140081340102"}
 {"prefLabel":"Staarbergerhof","uri":"https://rpb.lobid.org/spatial#n339060470103"}
 {"prefLabel":"Autobahnmeisterei","uri":"https://rpb.lobid.org/spatial#n332070470101"}
 {"prefLabel":"Am Bischofstein","uri":"https://rpb.lobid.org/spatial#n137092080101"}
@@ -3239,6 +3239,7 @@
 {"prefLabel":"Eisenburger Mühle","uri":"https://rpb.lobid.org/spatial#n143092420102"}
 {"prefLabel":"Steinbach am Glan","uri":"https://rpb.lobid.org/spatial#n33609096"}
 {"prefLabel":"Preist","uri":"https://rpb.lobid.org/spatial#n23207107"}
+{"prefLabel":"Wildburg","uri":"https://rpb.lobid.org/spatial#n140081340103"}
 {"prefLabel":"Menningen","uri":"https://rpb.lobid.org/spatial#n23205078"}
 {"prefLabel":"Sevenich (Ortsbezirk)","uri":"https://rpb.lobid.org/spatial#n140030100600"}
 {"prefLabel":"Wiesenmühle","uri":"https://rpb.lobid.org/spatial#n339060470104"}
@@ -4995,6 +4996,7 @@
 {"prefLabel":"Steckenstein","uri":"https://rpb.lobid.org/spatial#n132080110122"}
 {"prefLabel":"Hühnerfarm","uri":"https://rpb.lobid.org/spatial#n319000001304"}
 {"prefLabel":"Waldfischbach-Burgalben, Verbandsgemeinde","uri":"https://rpb.lobid.org/spatial#n34006"}
+{"prefLabel":"Grings-Mühle","uri":"https://rpb.lobid.org/spatial#n140080680101"}
 {"prefLabel":"Wiesbach","uri":"https://rpb.lobid.org/spatial#n34008227"}
 {"prefLabel":"Thomashof","uri":"https://rpb.lobid.org/spatial#n318000000110"}
 {"prefLabel":"Epgert","uri":"https://rpb.lobid.org/spatial#n132100650101"}
@@ -6037,7 +6039,6 @@
 {"prefLabel":"Kallweiler","uri":"https://rpb.lobid.org/spatial#n133105010206"}
 {"prefLabel":"Dörrebach","uri":"https://rpb.lobid.org/spatial#n13311025"}
 {"prefLabel":"Birkenhof","uri":"https://rpb.lobid.org/spatial#n137020270101"}
-{"prefLabel":"Grings-Mühle","uri":"https://rpb.lobid.org/spatial#n140060680101"}
 {"prefLabel":"Sulzmühle","uri":"https://rpb.lobid.org/spatial#n140031530104"}
 {"prefLabel":"Oberspay","uri":"https://rpb.lobid.org/spatial#n137092230200"}
 {"prefLabel":"Holzfeld (Ortsbezirk)","uri":"https://rpb.lobid.org/spatial#n140005010600"}
@@ -6073,6 +6074,7 @@
 {"prefLabel":"Mückenhäuser Hof","uri":"https://rpb.lobid.org/spatial#n319000001305"}
 {"prefLabel":"Forsthaus Vierherrenwald","uri":"https://rpb.lobid.org/spatial#n134050370101"}
 {"prefLabel":"Bahnhof Ingelbach","uri":"https://rpb.lobid.org/spatial#n132100570101"}
+{"prefLabel":"Kesselhannesmühle","uri":"https://rpb.lobid.org/spatial#n140080680102"}
 {"prefLabel":"Lonnig","uri":"https://rpb.lobid.org/spatial#n13702065"}
 {"prefLabel":"Wallhalben","uri":"https://rpb.lobid.org/spatial#n340092250200"}
 {"prefLabel":"Weiherhof","uri":"https://rpb.lobid.org/spatial#n318000000111"}
@@ -7076,7 +7078,6 @@
 {"prefLabel":"Quellenhof","uri":"https://rpb.lobid.org/spatial#n231001340620"}
 {"prefLabel":"Dorsheim","uri":"https://rpb.lobid.org/spatial#n13311026"}
 {"prefLabel":"Gänsmühle","uri":"https://rpb.lobid.org/spatial#n137020270102"}
-{"prefLabel":"Kesselhannesmühle","uri":"https://rpb.lobid.org/spatial#n140060680102"}
 {"prefLabel":"Fettsmühle","uri":"https://rpb.lobid.org/spatial#n140035030101"}
 {"prefLabel":"Holsthum","uri":"https://rpb.lobid.org/spatial#n23205053"}
 {"prefLabel":"Haus Peterspay (ehem.Stadt Boppard)","uri":"https://rpb.lobid.org/spatial#n137092230201"}
@@ -7115,6 +7116,7 @@
 {"prefLabel":"Zweibrücken-Land, Verbandsgemeinde","uri":"https://rpb.lobid.org/spatial#n34008"}
 {"prefLabel":"Aspelnhof","uri":"https://rpb.lobid.org/spatial#n233010770101"}
 {"prefLabel":"Niedersohrener Hof","uri":"https://rpb.lobid.org/spatial#n140041070101"}
+{"prefLabel":"Ölmühle","uri":"https://rpb.lobid.org/spatial#n140080680103"}
 {"prefLabel":"In der Bein","uri":"https://rpb.lobid.org/spatial#n133100720101"}
 {"prefLabel":"Leithof","uri":"https://rpb.lobid.org/spatial#n333040570101"}
 {"prefLabel":"Gimmeldingen (Ortsbezirk)","uri":"https://rpb.lobid.org/spatial#n316000000500"}
@@ -8120,7 +8122,6 @@
 {"prefLabel":"Asbach, Verbandsgemeinde","uri":"https://rpb.lobid.org/spatial#n13801"}
 {"prefLabel":"Kleinsteinfeld","uri":"https://rpb.lobid.org/spatial#n337020760102"}
 {"prefLabel":"Geismühle","uri":"https://rpb.lobid.org/spatial#n137020270103"}
-{"prefLabel":"Ölmühle","uri":"https://rpb.lobid.org/spatial#n140060680103"}
 {"prefLabel":"Lindenhof","uri":"https://rpb.lobid.org/spatial#n140035030102"}
 {"prefLabel":"Hommerdingen","uri":"https://rpb.lobid.org/spatial#n23205054"}
 {"prefLabel":"Peterspay","uri":"https://rpb.lobid.org/spatial#n137092230202"}
@@ -9790,7 +9791,6 @@
 {"prefLabel":"Lindenhof","uri":"https://rpb.lobid.org/spatial#n141110740104"}
 {"prefLabel":"Steinwenden","uri":"https://rpb.lobid.org/spatial#n33508044"}
 {"prefLabel":"Gronau","uri":"https://rpb.lobid.org/spatial#n338010220100"}
-{"prefLabel":"Forsthaus Ellerspring","uri":"https://rpb.lobid.org/spatial#n140071340101"}
 {"prefLabel":"Bodenheim, Verbandsgemeinde","uri":"https://rpb.lobid.org/spatial#n33902"}
 {"prefLabel":"Waldfrieden-Schweizertal","uri":"https://rpb.lobid.org/spatial#n141100440101"}
 {"prefLabel":"Binsfeld","uri":"https://rpb.lobid.org/spatial#n23108010"}
